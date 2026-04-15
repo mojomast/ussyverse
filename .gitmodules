@@ -1,0 +1,252 @@
+[submodule "projects/ai-agents/Beatrice"]
+	path = projects/ai-agents/Beatrice
+	url = https://github.com/mojomast/Beatrice.git
+[submodule "projects/ai-agents/becomussy"]
+	path = projects/ai-agents/becomussy
+	url = https://github.com/mojomast/becomussy.git
+[submodule "projects/ai-agents/clanker01"]
+	path = projects/ai-agents/clanker01
+	url = https://github.com/mojomast/clanker01.git
+[submodule "projects/ai-agents/clanker02"]
+	path = projects/ai-agents/clanker02
+	url = https://github.com/mojomast/clanker02.git
+[submodule "projects/ai-agents/clanker03"]
+	path = projects/ai-agents/clanker03
+	url = https://github.com/mojomast/clanker03.git
+[submodule "projects/ai-agents/clanker04"]
+	path = projects/ai-agents/clanker04
+	url = https://github.com/mojomast/clanker04.git
+[submodule "projects/ai-agents/clanker06"]
+	path = projects/ai-agents/clanker06
+	url = https://github.com/mojomast/clanker06.git
+[submodule "projects/ai-agents/clanker07"]
+	path = projects/ai-agents/clanker07
+	url = https://github.com/mojomast/clanker07.git
+[submodule "projects/ai-agents/devussy"]
+	path = projects/ai-agents/devussy
+	url = https://github.com/mojomast/devussy.git
+[submodule "projects/ai-agents/hermes-agent"]
+	path = projects/ai-agents/hermes-agent
+	url = https://github.com/mojomast/hermes-agent.git
+[submodule "projects/ai-agents/mcpussy"]
+	path = projects/ai-agents/mcpussy
+	url = https://github.com/mojomast/mcpussy.git
+[submodule "projects/ai-agents/ralphussy"]
+	path = projects/ai-agents/ralphussy
+	url = https://github.com/mojomast/ralphussy.git
+[submodule "projects/ai-agents/roguelitussy"]
+	path = projects/ai-agents/roguelitussy
+	url = https://github.com/mojomast/roguelitussy.git
+[submodule "projects/ai-agents/swarmussy"]
+	path = projects/ai-agents/swarmussy
+	url = https://github.com/mojomast/swarmussy.git
+[submodule "projects/ai-agents/uberclawcontrol"]
+	path = projects/ai-agents/uberclawcontrol
+	url = https://github.com/mojomast/uberclawcontrol.git
+[submodule "projects/ai-agents/ussycode"]
+	path = projects/ai-agents/ussycode
+	url = https://github.com/mojomast/ussycode.git
+[submodule "projects/dev-tools/BackupUSSY"]
+	path = projects/dev-tools/BackupUSSY
+	url = https://github.com/mojomast/BackupUSSY.git
+[submodule "projects/dev-tools/assayussy"]
+	path = projects/dev-tools/assayussy
+	url = https://github.com/mojomast/assayussy.git
+[submodule "projects/dev-tools/blinkslice"]
+	path = projects/dev-tools/blinkslice
+	url = https://github.com/mojomast/blinkslice.git
+[submodule "projects/dev-tools/crystallossy"]
+	path = projects/dev-tools/crystallossy
+	url = https://github.com/mojomast/crystallossy.git
+[submodule "projects/dev-tools/designussy"]
+	path = projects/dev-tools/designussy
+	url = https://github.com/mojomast/designussy.git
+[submodule "projects/dev-tools/fatigueussy"]
+	path = projects/dev-tools/fatigueussy
+	url = https://github.com/mojomast/fatigueussy.git
+[submodule "projects/dev-tools/geoffrussy"]
+	path = projects/dev-tools/geoffrussy
+	url = https://github.com/mojomast/geoffrussy.git
+[submodule "projects/dev-tools/reverseoracleussy"]
+	path = projects/dev-tools/reverseoracleussy
+	url = https://github.com/mojomast/reverseoracleussy.git
+[submodule "projects/dev-tools/seralussy"]
+	path = projects/dev-tools/seralussy
+	url = https://github.com/mojomast/seralussy.git
+[submodule "projects/dev-tools/sigintussy"]
+	path = projects/dev-tools/sigintussy
+	url = https://github.com/mojomast/sigintussy.git
+[submodule "projects/dev-tools/stratagitussy"]
+	path = projects/dev-tools/stratagitussy
+	url = https://github.com/mojomast/stratagitussy.git
+[submodule "projects/dev-tools/terrariumussy"]
+	path = projects/dev-tools/terrariumussy
+	url = https://github.com/mojomast/terrariumussy.git
+[submodule "projects/dev-tools/timeloomussy"]
+	path = projects/dev-tools/timeloomussy
+	url = https://github.com/mojomast/timeloomussy.git
+[submodule "projects/dev-tools/ussybiot"]
+	path = projects/dev-tools/ussybiot
+	url = https://github.com/mojomast/ussybiot.git
+[submodule "projects/code-analysis/alembicussy"]
+	path = projects/code-analysis/alembicussy
+	url = https://github.com/mojomast/alembicussy.git
+[submodule "projects/code-analysis/churnmap"]
+	path = projects/code-analysis/churnmap
+	url = https://github.com/mojomast/churnmap.git
+[submodule "projects/code-analysis/kintsugiussy"]
+	path = projects/code-analysis/kintsugiussy
+	url = https://github.com/mojomast/kintsugiussy.git
+[submodule "projects/code-analysis/kompressiussy"]
+	path = projects/code-analysis/kompressiussy
+	url = https://github.com/mojomast/kompressiussy.git
+[submodule "projects/code-analysis/morsethussy"]
+	path = projects/code-analysis/morsethussy
+	url = https://github.com/mojomast/morsethussy.git
+[submodule "projects/code-analysis/snapshotussy"]
+	path = projects/code-analysis/snapshotussy
+	url = https://github.com/mojomast/snapshotussy.git
+[submodule "projects/code-analysis/stenography"]
+	path = projects/code-analysis/stenography
+	url = https://github.com/mojomast/stenography.git
+[submodule "projects/code-analysis/strudelussy"]
+	path = projects/code-analysis/strudelussy
+	url = https://github.com/mojomast/strudelussy.git
+[submodule "projects/code-analysis/tellussy"]
+	path = projects/code-analysis/tellussy
+	url = https://github.com/mojomast/tellussy.git
+[submodule "projects/code-analysis/topussy"]
+	path = projects/code-analysis/topussy
+	url = https://github.com/mojomast/topussy.git
+[submodule "projects/code-analysis/unconformity"]
+	path = projects/code-analysis/unconformity
+	url = https://github.com/mojomast/unconformity.git
+[submodule "projects/code-analysis/ussycodeproxy"]
+	path = projects/code-analysis/ussycodeproxy
+	url = https://github.com/mojomast/ussycodeproxy.git
+[submodule "projects/code-analysis/voltronussy"]
+	path = projects/code-analysis/voltronussy
+	url = https://github.com/mojomast/voltronussy.git
+[submodule "projects/security/365compromisesleuth"]
+	path = projects/security/365compromisesleuth
+	url = https://github.com/mojomast/365compromisesleuth.git
+[submodule "projects/security/fireslice"]
+	path = projects/security/fireslice
+	url = https://github.com/mojomast/fireslice.git
+[submodule "projects/security/openclawremoteussy"]
+	path = projects/security/openclawremoteussy
+	url = https://github.com/mojomast/openclawremoteussy.git
+[submodule "projects/security/openclawssy"]
+	path = projects/security/openclawssy
+	url = https://github.com/mojomast/openclawssy.git
+[submodule "projects/creative/365cspadminussy"]
+	path = projects/creative/365cspadminussy
+	url = https://github.com/mojomast/365cspadminussy.git
+[submodule "projects/creative/ArtistSiteussy"]
+	path = projects/creative/ArtistSiteussy
+	url = https://github.com/mojomast/ArtistSiteussy.git
+[submodule "projects/creative/driftlineussy"]
+	path = projects/creative/driftlineussy
+	url = https://github.com/mojomast/driftlineussy.git
+[submodule "projects/creative/fruityboofs"]
+	path = projects/creative/fruityboofs
+	url = https://github.com/mojomast/fruityboofs.git
+[submodule "projects/creative/inkblotussy"]
+	path = projects/creative/inkblotussy
+	url = https://github.com/mojomast/inkblotussy.git
+[submodule "projects/creative/llmproxy"]
+	path = projects/creative/llmproxy
+	url = https://github.com/mojomast/llmproxy.git
+[submodule "projects/creative/partymemberbotussy"]
+	path = projects/creative/partymemberbotussy
+	url = https://github.com/mojomast/partymemberbotussy.git
+[submodule "projects/creative/tarotussy"]
+	path = projects/creative/tarotussy
+	url = https://github.com/mojomast/tarotussy.git
+[submodule "projects/games/CONTAINERWARZ"]
+	path = projects/games/CONTAINERWARZ
+	url = https://github.com/mojomast/CONTAINERWARZ.git
+[submodule "projects/games/mudussy"]
+	path = projects/games/mudussy
+	url = https://github.com/mojomast/mudussy.git
+[submodule "projects/games/pawn-shop-pioneers"]
+	path = projects/games/pawn-shop-pioneers
+	url = https://github.com/mojomast/pawn-shop-pioneers.git
+[submodule "projects/games/rpg-dm-bot"]
+	path = projects/games/rpg-dm-bot
+	url = https://github.com/mojomast/rpg-dm-bot.git
+[submodule "projects/games/scoreboardussy"]
+	path = projects/games/scoreboardussy
+	url = https://github.com/mojomast/scoreboardussy.git
+[submodule "projects/games/stallionussy"]
+	path = projects/games/stallionussy
+	url = https://github.com/mojomast/stallionussy.git
+[submodule "projects/chat-bots/Tchaikovskussy"]
+	path = projects/chat-bots/Tchaikovskussy
+	url = https://github.com/mojomast/Tchaikovskussy.git
+[submodule "projects/chat-bots/botmanagussy"]
+	path = projects/chat-bots/botmanagussy
+	url = https://github.com/mojomast/botmanagussy.git
+[submodule "projects/chat-bots/diffusionchatussy"]
+	path = projects/chat-bots/diffusionchatussy
+	url = https://github.com/mojomast/diffusionchatussy.git
+[submodule "projects/chat-bots/gemini-nano-banana-discord-bot"]
+	path = projects/chat-bots/gemini-nano-banana-discord-bot
+	url = https://github.com/mojomast/gemini-nano-banana-discord-bot.git
+[submodule "projects/chat-bots/ragussy"]
+	path = projects/chat-bots/ragussy
+	url = https://github.com/mojomast/ragussy.git
+[submodule "projects/chat-bots/ussybot"]
+	path = projects/chat-bots/ussybot
+	url = https://github.com/mojomast/ussybot.git
+[submodule "projects/chat-bots/ussyring"]
+	path = projects/chat-bots/ussyring
+	url = https://github.com/mojomast/ussyring.git
+[submodule "projects/chat-bots/xcancelussybot"]
+	path = projects/chat-bots/xcancelussybot
+	url = https://github.com/mojomast/xcancelussybot.git
+[submodule "projects/infra/dashboardussy"]
+	path = projects/infra/dashboardussy
+	url = https://github.com/mojomast/dashboardussy.git
+[submodule "projects/infra/evenia-mudlet-llm"]
+	path = projects/infra/evenia-mudlet-llm
+	url = https://github.com/mojomast/evenia-mudlet-llm.git
+[submodule "projects/infra/familydashboardussy"]
+	path = projects/infra/familydashboardussy
+	url = https://github.com/mojomast/familydashboardussy.git
+[submodule "projects/infra/warpussy"]
+	path = projects/infra/warpussy
+	url = https://github.com/mojomast/warpussy.git
+[submodule "projects/media/mediageckussy"]
+	path = projects/media/mediageckussy
+	url = https://github.com/mojomast/mediageckussy.git
+[submodule "projects/media/weouthere"]
+	path = projects/media/weouthere
+	url = https://github.com/mojomast/weouthere.git
+[submodule "projects/data-science/bananagen"]
+	path = projects/data-science/bananagen
+	url = https://github.com/mojomast/bananagen.git
+[submodule "projects/data-science/broipussy"]
+	path = projects/data-science/broipussy
+	url = https://github.com/mojomast/broipussy.git
+[submodule "projects/data-science/endemicussy"]
+	path = projects/data-science/endemicussy
+	url = https://github.com/mojomast/endemicussy.git
+[submodule "projects/data-science/ghstatsussy"]
+	path = projects/data-science/ghstatsussy
+	url = https://github.com/mojomast/ghstatsussy.git
+[submodule "projects/data-science/petrichorussy"]
+	path = projects/data-science/petrichorussy
+	url = https://github.com/mojomast/petrichorussy.git
+[submodule "projects/data-science/stemmaussy"]
+	path = projects/data-science/stemmaussy
+	url = https://github.com/mojomast/stemmaussy.git
+[submodule "projects/web-apps/iMaCoMpUtERussy"]
+	path = projects/web-apps/iMaCoMpUtERussy
+	url = https://github.com/mojomast/iMaCoMpUtERussy.git
+[submodule "projects/web-apps/plan9webplumbussy"]
+	path = projects/web-apps/plan9webplumbussy
+	url = https://github.com/mojomast/plan9webplumbussy.git
+[submodule "projects/web-apps/templeossy"]
+	path = projects/web-apps/templeossy
+	url = https://github.com/mojomast/templeossy.git
