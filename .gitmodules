@@ -250,3 +250,6 @@
 [submodule "projects/web-apps/templeossy"]
 	path = projects/web-apps/templeossy
 	url = https://github.com/mojomast/templeossy.git
+[submodule "projects/code-analysis/hitchussy"]
+	path = projects/code-analysis/hitchussy
+	url = https://github.com/mojomast/hitchussy.git
