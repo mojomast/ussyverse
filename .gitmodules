@@ -256,3 +256,6 @@
 [submodule "projects/dev-tools/circadiaussy"]
 	path = projects/dev-tools/circadiaussy
 	url = https://github.com/mojomast/circadiaussy.git
+[submodule "projects/code-analysis/isobarussy"]
+	path = projects/code-analysis/isobarussy
+	url = https://github.com/mojomast/isobarussy.git
