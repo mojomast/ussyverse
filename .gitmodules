@@ -283,3 +283,6 @@
 [submodule "projects/dev-tools/fossilrecordussy"]
 	path = projects/dev-tools/fossilrecordussy
 	url = https://github.com/mojomast/fossilrecordussy.git
+[submodule "projects/security/mintussy"]
+	path = projects/security/mintussy
+	url = https://github.com/mojomast/mintussy.git
