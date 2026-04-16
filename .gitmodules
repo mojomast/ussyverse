@@ -277,3 +277,6 @@
 [submodule "projects/dev-tools/mushinussy"]
 	path = projects/dev-tools/mushinussy
 	url = https://github.com/mojomast/mushinussy.git
+[submodule "projects/data-science/telegraphaussy"]
+	path = projects/data-science/telegraphaussy
+	url = https://github.com/mojomast/telegraphaussy.git
