@@ -259,3 +259,6 @@
 [submodule "projects/code-analysis/isobarussy"]
 	path = projects/code-analysis/isobarussy
 	url = https://github.com/mojomast/isobarussy.git
+[submodule "projects/data-science/cycloneussy"]
+	path = projects/data-science/cycloneussy
+	url = https://github.com/mojomast/cycloneussy.git
