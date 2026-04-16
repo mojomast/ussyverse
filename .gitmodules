@@ -268,3 +268,6 @@
 [submodule "projects/data-science/gamutussy"]
 	path = projects/data-science/gamutussy
 	url = https://github.com/mojomast/gamutussy.git
+[submodule "projects/code-analysis/cavityussy"]
+	path = projects/code-analysis/cavityussy
+	url = https://github.com/mojomast/cavityussy.git
