@@ -262,3 +262,6 @@
 [submodule "projects/data-science/cycloneussy"]
 	path = projects/data-science/cycloneussy
 	url = https://github.com/mojomast/cycloneussy.git
+[submodule "projects/data-science/aquiferussy"]
+	path = projects/data-science/aquiferussy
+	url = https://github.com/mojomast/aquiferussy.git
