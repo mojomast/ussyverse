@@ -274,3 +274,6 @@
 [submodule "projects/code-analysis/dosemateussy"]
 	path = projects/code-analysis/dosemateussy
 	url = https://github.com/mojomast/dosemateussy.git
+[submodule "projects/dev-tools/mushinussy"]
+	path = projects/dev-tools/mushinussy
+	url = https://github.com/mojomast/mushinussy.git
