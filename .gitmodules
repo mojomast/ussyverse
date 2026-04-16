@@ -286,3 +286,6 @@
 [submodule "projects/security/mintussy"]
 	path = projects/security/mintussy
 	url = https://github.com/mojomast/mintussy.git
+[submodule "projects/dev-tools/coronerussy"]
+	path = projects/dev-tools/coronerussy
+	url = https://github.com/mojomast/coronerussy.git
