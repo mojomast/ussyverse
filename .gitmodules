@@ -265,3 +265,6 @@
 [submodule "projects/data-science/aquiferussy"]
 	path = projects/data-science/aquiferussy
 	url = https://github.com/mojomast/aquiferussy.git
+[submodule "projects/data-science/gamutussy"]
+	path = projects/data-science/gamutussy
+	url = https://github.com/mojomast/gamutussy.git
