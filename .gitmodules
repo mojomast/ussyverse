@@ -253,3 +253,6 @@
 [submodule "projects/code-analysis/hitchussy"]
 	path = projects/code-analysis/hitchussy
 	url = https://github.com/mojomast/hitchussy.git
+[submodule "projects/dev-tools/circadiaussy"]
+	path = projects/dev-tools/circadiaussy
+	url = https://github.com/mojomast/circadiaussy.git
