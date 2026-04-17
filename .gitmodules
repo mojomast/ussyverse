@@ -295,3 +295,6 @@
 [submodule "projects/dev-tools/chromatoussy"]
 	path = projects/dev-tools/chromatoussy
 	url = https://github.com/mojomast/chromatoussy.git
+[submodule "projects/dev-tools/levainussy"]
+	path = projects/dev-tools/levainussy
+	url = https://github.com/mojomast/levainussy.git
