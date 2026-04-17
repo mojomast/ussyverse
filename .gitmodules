@@ -298,3 +298,6 @@
 [submodule "projects/dev-tools/levainussy"]
 	path = projects/dev-tools/levainussy
 	url = https://github.com/mojomast/levainussy.git
+[submodule "projects/dev-tools/marksmanussy"]
+	path = projects/dev-tools/marksmanussy
+	url = https://github.com/mojomast/marksmanussy.git
