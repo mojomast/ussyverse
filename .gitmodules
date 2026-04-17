@@ -304,3 +304,6 @@
 [submodule "projects/dev-tools/clavisussy"]
 	path = projects/dev-tools/clavisussy
 	url = https://github.com/mojomast/clavisussy.git
+[submodule "projects/code-analysis/strataussy"]
+	path = projects/code-analysis/strataussy
+	url = https://github.com/mojomast/strataussy.git
