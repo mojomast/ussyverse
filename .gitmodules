@@ -310,3 +310,6 @@
 [submodule "projects/code-analysis/lehrussy"]
 	path = projects/code-analysis/lehrussy
 	url = https://github.com/mojomast/lehrussy.git
+[submodule "projects/dev-tools/cambiumussy"]
+	path = projects/dev-tools/cambiumussy
+	url = https://github.com/mojomast/cambiumussy.git
