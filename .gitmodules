@@ -313,3 +313,6 @@
 [submodule "projects/dev-tools/cambiumussy"]
 	path = projects/dev-tools/cambiumussy
 	url = https://github.com/mojomast/cambiumussy.git
+[submodule "projects/code-analysis/acumenussy"]
+	path = projects/code-analysis/acumenussy
+	url = https://github.com/mojomast/acumenussy.git
