@@ -307,3 +307,6 @@
 [submodule "projects/code-analysis/strataussy"]
 	path = projects/code-analysis/strataussy
 	url = https://github.com/mojomast/strataussy.git
+[submodule "projects/code-analysis/lehrussy"]
+	path = projects/code-analysis/lehrussy
+	url = https://github.com/mojomast/lehrussy.git
