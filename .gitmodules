@@ -301,3 +301,6 @@
 [submodule "projects/dev-tools/marksmanussy"]
 	path = projects/dev-tools/marksmanussy
 	url = https://github.com/mojomast/marksmanussy.git
+[submodule "projects/dev-tools/clavisussy"]
+	path = projects/dev-tools/clavisussy
+	url = https://github.com/mojomast/clavisussy.git
