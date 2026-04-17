@@ -289,3 +289,6 @@
 [submodule "projects/dev-tools/coronerussy"]
 	path = projects/dev-tools/coronerussy
 	url = https://github.com/mojomast/coronerussy.git
+[submodule "projects/code-analysis/syntropussy"]
+	path = projects/code-analysis/syntropussy
+	url = https://github.com/mojomast/syntropussy.git
