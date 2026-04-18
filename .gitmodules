@@ -322,3 +322,6 @@
 [submodule "projects/dev-tools/portmoreussy"]
 	path = projects/dev-tools/portmoreussy
 	url = https://github.com/mojomast/portmoreussy.git
+[submodule "projects/security/actuaryussy"]
+	path = projects/security/actuaryussy
+	url = https://github.com/mojomast/actuaryussy.git
