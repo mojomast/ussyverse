@@ -316,3 +316,6 @@
 [submodule "projects/code-analysis/acumenussy"]
 	path = projects/code-analysis/acumenussy
 	url = https://github.com/mojomast/acumenussy.git
+[submodule "projects/dev-tools/gridironussy"]
+	path = projects/dev-tools/gridironussy
+	url = https://github.com/mojomast/gridironussy.git
