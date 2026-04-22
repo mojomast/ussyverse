@@ -328,3 +328,6 @@
 [submodule "projects/games/escutcheonussy"]
 	path = projects/games/escutcheonussy
 	url = https://github.com/mojomast/escutcheonussy.git
+[submodule "projects/games/entrainussy"]
+	path = projects/games/entrainussy
+	url = https://github.com/mojomast/entrainussy.git
