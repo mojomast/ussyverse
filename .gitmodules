@@ -352,3 +352,6 @@
 [submodule "projects/data-science/quantumussy"]
 	path = projects/data-science/quantumussy
 	url = https://github.com/mojomast/quantumussy.git
+[submodule "projects/code-analysis/ichniteussy"]
+	path = projects/code-analysis/ichniteussy
+	url = https://github.com/mojomast/ichniteussy.git
