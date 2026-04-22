@@ -325,3 +325,6 @@
 [submodule "projects/security/actuaryussy"]
 	path = projects/security/actuaryussy
 	url = https://github.com/mojomast/actuaryussy.git
+[submodule "projects/games/escutcheonussy"]
+	path = projects/games/escutcheonussy
+	url = https://github.com/mojomast/escutcheonussy.git
