@@ -346,3 +346,6 @@
 [submodule "projects/dev-tools/proprioceptionussy"]
 	path = projects/dev-tools/proprioceptionussy
 	url = https://github.com/mojomast/proprioceptionussy.git
+[submodule "projects/dev-tools/rosettussy"]
+	path = projects/dev-tools/rosettussy
+	url = https://github.com/mojomast/rosettussy.git
