@@ -349,3 +349,6 @@
 [submodule "projects/dev-tools/rosettussy"]
 	path = projects/dev-tools/rosettussy
 	url = https://github.com/mojomast/rosettussy.git
+[submodule "projects/data-science/quantumussy"]
+	path = projects/data-science/quantumussy
+	url = https://github.com/mojomast/quantumussy.git
