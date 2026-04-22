@@ -337,3 +337,6 @@
 [submodule "projects/dev-tools/curatorussy"]
 	path = projects/dev-tools/curatorussy
 	url = https://github.com/mojomast/curatorussy.git
+[submodule "projects/ai-agents/parliamentussy"]
+	path = projects/ai-agents/parliamentussy
+	url = https://github.com/mojomast/parliamentussy.git
