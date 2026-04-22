@@ -331,3 +331,6 @@
 [submodule "projects/games/entrainussy"]
 	path = projects/games/entrainussy
 	url = https://github.com/mojomast/entrainussy.git
+[submodule "projects/dev-tools/operonussy"]
+	path = projects/dev-tools/operonussy
+	url = https://github.com/mojomast/operonussy.git
