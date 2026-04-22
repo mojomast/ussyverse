@@ -340,3 +340,6 @@
 [submodule "projects/ai-agents/parliamentussy"]
 	path = projects/ai-agents/parliamentussy
 	url = https://github.com/mojomast/parliamentussy.git
+[submodule "projects/games/cartographerussy"]
+	path = projects/games/cartographerussy
+	url = https://github.com/mojomast/cartographerussy.git
