@@ -334,3 +334,6 @@
 [submodule "projects/dev-tools/operonussy"]
 	path = projects/dev-tools/operonussy
 	url = https://github.com/mojomast/operonussy.git
+[submodule "projects/dev-tools/curatorussy"]
+	path = projects/dev-tools/curatorussy
+	url = https://github.com/mojomast/curatorussy.git
