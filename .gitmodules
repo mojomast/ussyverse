@@ -343,3 +343,6 @@
 [submodule "projects/games/cartographerussy"]
 	path = projects/games/cartographerussy
 	url = https://github.com/mojomast/cartographerussy.git
+[submodule "projects/dev-tools/proprioceptionussy"]
+	path = projects/dev-tools/proprioceptionussy
+	url = https://github.com/mojomast/proprioceptionussy.git
