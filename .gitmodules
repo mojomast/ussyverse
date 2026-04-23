@@ -373,3 +373,6 @@
 [submodule "projects/games/maneuverussy"]
 	path = projects/games/maneuverussy
 	url = https://github.com/mojomast/maneuverussy.git
+[submodule "projects/games/gravitonussy"]
+	path = projects/games/gravitonussy
+	url = https://github.com/mojomast/gravitonussy.git
