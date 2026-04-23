@@ -394,3 +394,6 @@
 [submodule "projects/creative/fermentussy"]
 	path = projects/creative/fermentussy
 	url = https://github.com/mojomast/fermentussy.git
+[submodule "projects/dev-tools/laminarussy"]
+	path = projects/dev-tools/laminarussy
+	url = https://github.com/mojomast/laminarussy.git
