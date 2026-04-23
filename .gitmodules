@@ -391,3 +391,6 @@
 [submodule "projects/web-apps/symbiosisussy"]
 	path = projects/web-apps/symbiosisussy
 	url = https://github.com/mojomast/symbiosisussy.git
+[submodule "projects/creative/fermentussy"]
+	path = projects/creative/fermentussy
+	url = https://github.com/mojomast/fermentussy.git
