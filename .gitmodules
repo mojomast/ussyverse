@@ -385,3 +385,6 @@
 [submodule "projects/data-science/seismicussy"]
 	path = projects/data-science/seismicussy
 	url = https://github.com/mojomast/seismicussy.git
+[submodule "projects/dev-tools/immunussy"]
+	path = projects/dev-tools/immunussy
+	url = https://github.com/mojomast/immunussy.git
