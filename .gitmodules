@@ -382,3 +382,6 @@
 [submodule "projects/dev-tools/ethonussy"]
 	path = projects/dev-tools/ethonussy
 	url = https://github.com/mojomast/ethonussy.git
+[submodule "projects/data-science/seismicussy"]
+	path = projects/data-science/seismicussy
+	url = https://github.com/mojomast/seismicussy.git
