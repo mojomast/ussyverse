@@ -400,3 +400,6 @@
 [submodule "projects/dev-tools/tectonicussy"]
 	path = projects/dev-tools/tectonicussy
 	url = https://github.com/mojomast/tectonicussy.git
+[submodule "projects/web-apps/aeroussy"]
+	path = projects/web-apps/aeroussy
+	url = https://github.com/mojomast/aeroussy.git
