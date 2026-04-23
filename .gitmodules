@@ -379,3 +379,6 @@
 [submodule "projects/code-analysis/choreoussy"]
 	path = projects/code-analysis/choreoussy
 	url = https://github.com/mojomast/choreoussy.git
+[submodule "projects/dev-tools/ethonussy"]
+	path = projects/dev-tools/ethonussy
+	url = https://github.com/mojomast/ethonussy.git
