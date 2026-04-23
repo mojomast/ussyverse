@@ -367,3 +367,6 @@
 [submodule "projects/security/haccpussy"]
 	path = projects/security/haccpussy
 	url = https://github.com/mojomast/haccpussy.git
+[submodule "projects/code-analysis/memetixussy"]
+	path = projects/code-analysis/memetixussy
+	url = https://github.com/mojomast/memetixussy.git
