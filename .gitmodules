@@ -364,3 +364,6 @@
 [submodule "projects/dev-tools/ludonussy"]
 	path = projects/dev-tools/ludonussy
 	url = https://github.com/mojomast/ludonussy.git
+[submodule "projects/security/haccpussy"]
+	path = projects/security/haccpussy
+	url = https://github.com/mojomast/haccpussy.git
