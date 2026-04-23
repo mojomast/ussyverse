@@ -358,3 +358,6 @@
 [submodule "projects/games/stormussy"]
 	path = projects/games/stormussy
 	url = https://github.com/mojomast/stormussy.git
+[submodule "projects/dev-tools/photosynthussy"]
+	path = projects/dev-tools/photosynthussy
+	url = https://github.com/mojomast/photosynthussy.git
