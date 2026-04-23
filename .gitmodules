@@ -361,3 +361,6 @@
 [submodule "projects/dev-tools/photosynthussy"]
 	path = projects/dev-tools/photosynthussy
 	url = https://github.com/mojomast/photosynthussy.git
+[submodule "projects/dev-tools/ludonussy"]
+	path = projects/dev-tools/ludonussy
+	url = https://github.com/mojomast/ludonussy.git
