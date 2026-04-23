@@ -388,3 +388,6 @@
 [submodule "projects/dev-tools/immunussy"]
 	path = projects/dev-tools/immunussy
 	url = https://github.com/mojomast/immunussy.git
+[submodule "projects/web-apps/symbiosisussy"]
+	path = projects/web-apps/symbiosisussy
+	url = https://github.com/mojomast/symbiosisussy.git
