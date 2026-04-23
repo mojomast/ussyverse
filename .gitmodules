@@ -403,3 +403,6 @@
 [submodule "projects/web-apps/aeroussy"]
 	path = projects/web-apps/aeroussy
 	url = https://github.com/mojomast/aeroussy.git
+[submodule "projects/dev-tools/chloroussy"]
+	path = projects/dev-tools/chloroussy
+	url = https://github.com/mojomast/chloroussy.git
