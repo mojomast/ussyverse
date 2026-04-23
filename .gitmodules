@@ -397,3 +397,6 @@
 [submodule "projects/dev-tools/laminarussy"]
 	path = projects/dev-tools/laminarussy
 	url = https://github.com/mojomast/laminarussy.git
+[submodule "projects/dev-tools/tectonicussy"]
+	path = projects/dev-tools/tectonicussy
+	url = https://github.com/mojomast/tectonicussy.git
