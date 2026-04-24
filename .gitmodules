@@ -412,3 +412,6 @@
 [submodule "projects/dev-tools/queueussy"]
 	path = projects/dev-tools/queueussy
 	url = https://github.com/mojomast/queueussy.git
+[submodule "projects/creative/bonsaiussy"]
+	path = projects/creative/bonsaiussy
+	url = https://github.com/mojomast/bonsaiussy.git
