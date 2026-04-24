@@ -406,3 +406,6 @@
 [submodule "projects/dev-tools/chloroussy"]
 	path = projects/dev-tools/chloroussy
 	url = https://github.com/mojomast/chloroussy.git
+[submodule "projects/dev-tools/taktussy"]
+	path = projects/dev-tools/taktussy
+	url = https://github.com/mojomast/taktussy.git
