@@ -409,3 +409,6 @@
 [submodule "projects/dev-tools/taktussy"]
 	path = projects/dev-tools/taktussy
 	url = https://github.com/mojomast/taktussy.git
+[submodule "projects/dev-tools/queueussy"]
+	path = projects/dev-tools/queueussy
+	url = https://github.com/mojomast/queueussy.git
