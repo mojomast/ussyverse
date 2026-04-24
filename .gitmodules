@@ -424,3 +424,6 @@
 [submodule "projects/dev-tools/speleoussy"]
 	path = projects/dev-tools/speleoussy
 	url = https://github.com/mojomast/speleoussy.git
+[submodule "projects/dev-tools/percolateussy"]
+	path = projects/dev-tools/percolateussy
+	url = https://github.com/mojomast/percolateussy.git
