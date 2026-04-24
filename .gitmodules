@@ -430,3 +430,6 @@
 [submodule "projects/dev-tools/pedonussy"]
 	path = projects/dev-tools/pedonussy
 	url = https://github.com/mojomast/pedonussy.git
+[submodule "projects/web-apps/axisussy"]
+	path = projects/web-apps/axisussy
+	url = https://github.com/mojomast/axisussy.git
