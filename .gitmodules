@@ -448,3 +448,6 @@
 [submodule "projects/web-apps/predatorussy"]
 	path = projects/web-apps/predatorussy
 	url = https://github.com/mojomast/predatorussy.git
+[submodule "projects/dev-tools/silvaussy"]
+	path = projects/dev-tools/silvaussy
+	url = https://github.com/mojomast/silvaussy.git
