@@ -433,3 +433,6 @@
 [submodule "projects/web-apps/axisussy"]
 	path = projects/web-apps/axisussy
 	url = https://github.com/mojomast/axisussy.git
+[submodule "projects/web-apps/tidalussy"]
+	path = projects/web-apps/tidalussy
+	url = https://github.com/mojomast/tidalussy.git
