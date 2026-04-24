@@ -442,3 +442,6 @@
 [submodule "projects/data-science/watershedussy"]
 	path = projects/data-science/watershedussy
 	url = https://github.com/mojomast/watershedussy.git
+[submodule "projects/creative/terroirussy"]
+	path = projects/creative/terroirussy
+	url = https://github.com/mojomast/terroirussy.git
