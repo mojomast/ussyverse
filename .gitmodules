@@ -451,3 +451,6 @@
 [submodule "projects/dev-tools/silvaussy"]
 	path = projects/dev-tools/silvaussy
 	url = https://github.com/mojomast/silvaussy.git
+[submodule "projects/dev-tools/forageussy"]
+	path = projects/dev-tools/forageussy
+	url = https://github.com/mojomast/forageussy.git
