@@ -415,3 +415,6 @@
 [submodule "projects/creative/bonsaiussy"]
 	path = projects/creative/bonsaiussy
 	url = https://github.com/mojomast/bonsaiussy.git
+[submodule "projects/dev-tools/ebbinghausussy"]
+	path = projects/dev-tools/ebbinghausussy
+	url = https://github.com/mojomast/ebbinghausussy.git
