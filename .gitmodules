@@ -436,3 +436,6 @@
 [submodule "projects/web-apps/tidalussy"]
 	path = projects/web-apps/tidalussy
 	url = https://github.com/mojomast/tidalussy.git
+[submodule "projects/dev-tools/synapseussy"]
+	path = projects/dev-tools/synapseussy
+	url = https://github.com/mojomast/synapseussy.git
