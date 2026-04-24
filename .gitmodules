@@ -445,3 +445,6 @@
 [submodule "projects/creative/terroirussy"]
 	path = projects/creative/terroirussy
 	url = https://github.com/mojomast/terroirussy.git
+[submodule "projects/web-apps/predatorussy"]
+	path = projects/web-apps/predatorussy
+	url = https://github.com/mojomast/predatorussy.git
