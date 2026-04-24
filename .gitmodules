@@ -418,3 +418,6 @@
 [submodule "projects/dev-tools/ebbinghausussy"]
 	path = projects/dev-tools/ebbinghausussy
 	url = https://github.com/mojomast/ebbinghausussy.git
+[submodule "projects/creative/forgeussy"]
+	path = projects/creative/forgeussy
+	url = https://github.com/mojomast/forgeussy.git
