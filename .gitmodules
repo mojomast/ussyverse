@@ -454,3 +454,6 @@
 [submodule "projects/dev-tools/forageussy"]
 	path = projects/dev-tools/forageussy
 	url = https://github.com/mojomast/forageussy.git
+[submodule "projects/creative/knitussy"]
+	path = projects/creative/knitussy
+	url = https://github.com/mojomast/knitussy.git
