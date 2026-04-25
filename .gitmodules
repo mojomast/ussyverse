@@ -487,3 +487,6 @@
 [submodule "projects/dev-tools/laminateussy"]
 	path = projects/dev-tools/laminateussy
 	url = https://github.com/mojomast/laminateussy.git
+[submodule "projects/creative/myceliumussy"]
+	path = projects/creative/myceliumussy
+	url = https://github.com/mojomast/myceliumussy.git
