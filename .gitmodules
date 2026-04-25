@@ -469,3 +469,6 @@
 [submodule "projects/data-science/koppenussy"]
 	path = projects/data-science/koppenussy
 	url = https://github.com/mojomast/koppenussy.git
+[submodule "projects/data-science/coreussy"]
+	path = projects/data-science/coreussy
+	url = https://github.com/mojomast/coreussy.git
