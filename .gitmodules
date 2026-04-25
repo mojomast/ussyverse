@@ -466,3 +466,6 @@
 [submodule "projects/creative/phyllotaxisussy"]
 	path = projects/creative/phyllotaxisussy
 	url = https://github.com/mojomast/phyllotaxisussy.git
+[submodule "projects/data-science/koppenussy"]
+	path = projects/data-science/koppenussy
+	url = https://github.com/mojomast/koppenussy.git
