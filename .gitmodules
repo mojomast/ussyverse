@@ -478,3 +478,6 @@
 [submodule "projects/dev-tools/limnoussy"]
 	path = projects/dev-tools/limnoussy
 	url = https://github.com/mojomast/limnoussy.git
+[submodule "projects/dev-tools/apoptosisussy"]
+	path = projects/dev-tools/apoptosisussy
+	url = https://github.com/mojomast/apoptosisussy.git
