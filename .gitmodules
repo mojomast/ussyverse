@@ -493,3 +493,6 @@
 [submodule "projects/creative/tonalussy"]
 	path = projects/creative/tonalussy
 	url = https://github.com/mojomast/tonalussy.git
+[submodule "projects/creative/marangoniussy"]
+	path = projects/creative/marangoniussy
+	url = https://github.com/mojomast/marangoniussy.git
