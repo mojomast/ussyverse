@@ -508,3 +508,6 @@
 [submodule "projects/dev-tools/auscultussy"]
 	path = projects/dev-tools/auscultussy
 	url = https://github.com/mojomast/auscultussy.git
+[submodule "projects/web-apps/vitalussy"]
+	path = projects/web-apps/vitalussy
+	url = https://github.com/mojomast/vitalussy.git
