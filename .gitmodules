@@ -457,3 +457,6 @@
 [submodule "projects/creative/knitussy"]
 	path = projects/creative/knitussy
 	url = https://github.com/mojomast/knitussy.git
+[submodule "projects/dev-tools/vectorussy"]
+	path = projects/dev-tools/vectorussy
+	url = https://github.com/mojomast/vectorussy.git
