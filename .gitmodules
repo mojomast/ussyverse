@@ -511,3 +511,6 @@
 [submodule "projects/web-apps/vitalussy"]
 	path = projects/web-apps/vitalussy
 	url = https://github.com/mojomast/vitalussy.git
+[submodule "projects/web-apps/otolithussy"]
+	path = projects/web-apps/otolithussy
+	url = https://github.com/mojomast/otolithussy.git
