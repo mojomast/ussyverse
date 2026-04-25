@@ -499,3 +499,6 @@
 [submodule "projects/dev-tools/firelineussy"]
 	path = projects/dev-tools/firelineussy
 	url = https://github.com/mojomast/firelineussy.git
+[submodule "projects/web-apps/keelussy"]
+	path = projects/web-apps/keelussy
+	url = https://github.com/mojomast/keelussy.git
