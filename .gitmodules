@@ -496,3 +496,6 @@
 [submodule "projects/creative/marangoniussy"]
 	path = projects/creative/marangoniussy
 	url = https://github.com/mojomast/marangoniussy.git
+[submodule "projects/dev-tools/firelineussy"]
+	path = projects/dev-tools/firelineussy
+	url = https://github.com/mojomast/firelineussy.git
