@@ -502,3 +502,6 @@
 [submodule "projects/web-apps/keelussy"]
 	path = projects/web-apps/keelussy
 	url = https://github.com/mojomast/keelussy.git
+[submodule "projects/data-science/lichenoussy"]
+	path = projects/data-science/lichenoussy
+	url = https://github.com/mojomast/lichenoussy.git
