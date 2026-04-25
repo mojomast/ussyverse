@@ -472,3 +472,6 @@
 [submodule "projects/data-science/coreussy"]
 	path = projects/data-science/coreussy
 	url = https://github.com/mojomast/coreussy.git
+[submodule "projects/dev-tools/proxemaussy"]
+	path = projects/dev-tools/proxemaussy
+	url = https://github.com/mojomast/proxemaussy.git
