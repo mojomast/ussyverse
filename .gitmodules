@@ -505,3 +505,6 @@
 [submodule "projects/data-science/lichenoussy"]
 	path = projects/data-science/lichenoussy
 	url = https://github.com/mojomast/lichenoussy.git
+[submodule "projects/dev-tools/auscultussy"]
+	path = projects/dev-tools/auscultussy
+	url = https://github.com/mojomast/auscultussy.git
