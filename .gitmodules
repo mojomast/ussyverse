@@ -460,3 +460,6 @@
 [submodule "projects/dev-tools/vectorussy"]
 	path = projects/dev-tools/vectorussy
 	url = https://github.com/mojomast/vectorussy.git
+[submodule "projects/dev-tools/equilibriaussy"]
+	path = projects/dev-tools/equilibriaussy
+	url = https://github.com/mojomast/equilibriaussy.git
