@@ -484,3 +484,6 @@
 [submodule "projects/data-science/ichnoussy"]
 	path = projects/data-science/ichnoussy
 	url = https://github.com/mojomast/ichnoussy.git
+[submodule "projects/dev-tools/laminateussy"]
+	path = projects/dev-tools/laminateussy
+	url = https://github.com/mojomast/laminateussy.git
