@@ -463,3 +463,6 @@
 [submodule "projects/dev-tools/equilibriaussy"]
 	path = projects/dev-tools/equilibriaussy
 	url = https://github.com/mojomast/equilibriaussy.git
+[submodule "projects/creative/phyllotaxisussy"]
+	path = projects/creative/phyllotaxisussy
+	url = https://github.com/mojomast/phyllotaxisussy.git
