@@ -535,3 +535,6 @@
 [submodule "projects/data-science/mtorussy"]
 	path = projects/data-science/mtorussy
 	url = https://github.com/mojomast/mtorussy.git
+[submodule "projects/data-science/psychraussy"]
+	path = projects/data-science/psychraussy
+	url = https://github.com/mojomast/psychraussy.git
