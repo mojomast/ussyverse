@@ -547,3 +547,6 @@
 [submodule "projects/dev-tools/bloomussy"]
 	path = projects/dev-tools/bloomussy
 	url = https://github.com/mojomast/bloomussy.git
+[submodule "projects/creative/olfactoussy"]
+	path = projects/creative/olfactoussy
+	url = https://github.com/mojomast/olfactoussy.git
