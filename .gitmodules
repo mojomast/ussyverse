@@ -544,3 +544,6 @@
 [submodule "projects/dev-tools/condorcetussy"]
 	path = projects/dev-tools/condorcetussy
 	url = https://github.com/mojomast/condorcetussy.git
+[submodule "projects/dev-tools/bloomussy"]
+	path = projects/dev-tools/bloomussy
+	url = https://github.com/mojomast/bloomussy.git
