@@ -520,3 +520,6 @@
 [submodule "projects/web-apps/latticeussy"]
 	path = projects/web-apps/latticeussy
 	url = https://github.com/mojomast/latticeussy.git
+[submodule "projects/dev-tools/tempestussy"]
+	path = projects/dev-tools/tempestussy
+	url = https://github.com/mojomast/tempestussy.git
