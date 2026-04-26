@@ -550,3 +550,6 @@
 [submodule "projects/creative/olfactoussy"]
 	path = projects/creative/olfactoussy
 	url = https://github.com/mojomast/olfactoussy.git
+[submodule "projects/data-science/glacierussy"]
+	path = projects/data-science/glacierussy
+	url = https://github.com/mojomast/glacierussy.git
