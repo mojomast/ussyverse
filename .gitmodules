@@ -541,3 +541,6 @@
 [submodule "projects/dev-tools/stratumussy"]
 	path = projects/dev-tools/stratumussy
 	url = https://github.com/mojomast/stratumussy.git
+[submodule "projects/dev-tools/condorcetussy"]
+	path = projects/dev-tools/condorcetussy
+	url = https://github.com/mojomast/condorcetussy.git
