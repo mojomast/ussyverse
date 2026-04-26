@@ -523,3 +523,6 @@
 [submodule "projects/dev-tools/tempestussy"]
 	path = projects/dev-tools/tempestussy
 	url = https://github.com/mojomast/tempestussy.git
+[submodule "projects/dev-tools/quorumussy"]
+	path = projects/dev-tools/quorumussy
+	url = https://github.com/mojomast/quorumussy.git
