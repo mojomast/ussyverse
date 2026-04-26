@@ -514,3 +514,6 @@
 [submodule "projects/web-apps/otolithussy"]
 	path = projects/web-apps/otolithussy
 	url = https://github.com/mojomast/otolithussy.git
+[submodule "projects/dev-tools/hysteronussy"]
+	path = projects/dev-tools/hysteronussy
+	url = https://github.com/mojomast/hysteronussy.git
