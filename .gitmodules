@@ -538,3 +538,6 @@
 [submodule "projects/data-science/psychraussy"]
 	path = projects/data-science/psychraussy
 	url = https://github.com/mojomast/psychraussy.git
+[submodule "projects/dev-tools/stratumussy"]
+	path = projects/dev-tools/stratumussy
+	url = https://github.com/mojomast/stratumussy.git
