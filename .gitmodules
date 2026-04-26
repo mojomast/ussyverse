@@ -562,3 +562,6 @@
 [submodule "projects/dev-tools/stabilonussy"]
 	path = projects/dev-tools/stabilonussy
 	url = https://github.com/mojomast/stabilonussy.git
+[submodule "projects/data-science/enamelaussy"]
+	path = projects/data-science/enamelaussy
+	url = https://github.com/mojomast/enamelaussy.git
