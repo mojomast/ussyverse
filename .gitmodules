@@ -568,3 +568,6 @@
 [submodule "projects/media/opticussy"]
 	path = projects/media/opticussy
 	url = https://github.com/mojomast/opticussy.git
+[submodule "projects/data-science/sonantaussy"]
+	path = projects/data-science/sonantaussy
+	url = https://github.com/mojomast/sonantaussy.git
