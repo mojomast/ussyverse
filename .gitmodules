@@ -553,3 +553,6 @@
 [submodule "projects/data-science/glacierussy"]
 	path = projects/data-science/glacierussy
 	url = https://github.com/mojomast/glacierussy.git
+[submodule "projects/dev-tools/lanugoussy"]
+	path = projects/dev-tools/lanugoussy
+	url = https://github.com/mojomast/lanugoussy.git
