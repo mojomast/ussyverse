@@ -571,3 +571,6 @@
 [submodule "projects/data-science/sonantaussy"]
 	path = projects/data-science/sonantaussy
 	url = https://github.com/mojomast/sonantaussy.git
+[submodule "projects/web-apps/tenocyteussy"]
+	path = projects/web-apps/tenocyteussy
+	url = https://github.com/mojomast/tenocyteussy.git
