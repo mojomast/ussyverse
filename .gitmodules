@@ -532,3 +532,6 @@
 [submodule "projects/web-apps/palynoussy"]
 	path = projects/web-apps/palynoussy
 	url = https://github.com/mojomast/palynoussy.git
+[submodule "projects/data-science/mtorussy"]
+	path = projects/data-science/mtorussy
+	url = https://github.com/mojomast/mtorussy.git
