@@ -565,3 +565,6 @@
 [submodule "projects/data-science/enamelaussy"]
 	path = projects/data-science/enamelaussy
 	url = https://github.com/mojomast/enamelaussy.git
+[submodule "projects/media/opticussy"]
+	path = projects/media/opticussy
+	url = https://github.com/mojomast/opticussy.git
