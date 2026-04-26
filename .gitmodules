@@ -526,3 +526,6 @@
 [submodule "projects/dev-tools/quorumussy"]
 	path = projects/dev-tools/quorumussy
 	url = https://github.com/mojomast/quorumussy.git
+[submodule "projects/data-science/ethylenoussy"]
+	path = projects/data-science/ethylenoussy
+	url = https://github.com/mojomast/ethylenoussy.git
