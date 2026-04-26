@@ -517,3 +517,6 @@
 [submodule "projects/dev-tools/hysteronussy"]
 	path = projects/dev-tools/hysteronussy
 	url = https://github.com/mojomast/hysteronussy.git
+[submodule "projects/web-apps/latticeussy"]
+	path = projects/web-apps/latticeussy
+	url = https://github.com/mojomast/latticeussy.git
