@@ -556,3 +556,6 @@
 [submodule "projects/dev-tools/lanugoussy"]
 	path = projects/dev-tools/lanugoussy
 	url = https://github.com/mojomast/lanugoussy.git
+[submodule "projects/dev-tools/calderaussy"]
+	path = projects/dev-tools/calderaussy
+	url = https://github.com/mojomast/calderaussy.git
