@@ -607,3 +607,6 @@
 [submodule "projects/web-apps/soluteussy"]
 	path = projects/web-apps/soluteussy
 	url = https://github.com/mojomast/soluteussy.git
+[submodule "projects/data-science/rheoussy"]
+	path = projects/data-science/rheoussy
+	url = https://github.com/mojomast/rheoussy.git
