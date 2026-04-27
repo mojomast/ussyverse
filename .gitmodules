@@ -628,3 +628,6 @@
 [submodule "projects/dev-tools/stomataussy"]
 	path = projects/dev-tools/stomataussy
 	url = https://github.com/mojomast/stomataussy.git
+[submodule "projects/dev-tools/adsorbaussy"]
+	path = projects/dev-tools/adsorbaussy
+	url = https://github.com/mojomast/adsorbaussy.git
