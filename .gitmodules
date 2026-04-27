@@ -610,3 +610,6 @@
 [submodule "projects/data-science/rheoussy"]
 	path = projects/data-science/rheoussy
 	url = https://github.com/mojomast/rheoussy.git
+[submodule "projects/media/archivioussy"]
+	path = projects/media/archivioussy
+	url = https://github.com/mojomast/archivioussy.git
