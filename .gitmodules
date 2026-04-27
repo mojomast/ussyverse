@@ -580,3 +580,6 @@
 [submodule "projects/data-science/saccadaussy"]
 	path = projects/data-science/saccadaussy
 	url = https://github.com/mojomast/saccadaussy.git
+[submodule "projects/web-apps/apicolaussy"]
+	path = projects/web-apps/apicolaussy
+	url = https://github.com/mojomast/apicolaussy.git
