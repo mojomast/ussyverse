@@ -613,3 +613,6 @@
 [submodule "projects/media/archivioussy"]
 	path = projects/media/archivioussy
 	url = https://github.com/mojomast/archivioussy.git
+[submodule "projects/dev-tools/kinshipussy"]
+	path = projects/dev-tools/kinshipussy
+	url = https://github.com/mojomast/kinshipussy.git
