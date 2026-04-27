@@ -631,3 +631,6 @@
 [submodule "projects/dev-tools/adsorbaussy"]
 	path = projects/dev-tools/adsorbaussy
 	url = https://github.com/mojomast/adsorbaussy.git
+[submodule "projects/infra/capstanussy"]
+	path = projects/infra/capstanussy
+	url = https://github.com/mojomast/capstanussy.git
