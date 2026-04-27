@@ -598,3 +598,6 @@
 [submodule "projects/dev-tools/triagiaussy"]
 	path = projects/dev-tools/triagiaussy
 	url = https://github.com/mojomast/triagiaussy.git
+[submodule "projects/dev-tools/allomaussy"]
+	path = projects/dev-tools/allomaussy
+	url = https://github.com/mojomast/allomaussy.git
