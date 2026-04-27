@@ -616,3 +616,6 @@
 [submodule "projects/dev-tools/kinshipussy"]
 	path = projects/dev-tools/kinshipussy
 	url = https://github.com/mojomast/kinshipussy.git
+[submodule "projects/dev-tools/metraussy"]
+	path = projects/dev-tools/metraussy
+	url = https://github.com/mojomast/metraussy.git
