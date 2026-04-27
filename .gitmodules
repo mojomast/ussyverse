@@ -595,3 +595,6 @@
 [submodule "projects/dev-tools/orbitalussy"]
 	path = projects/dev-tools/orbitalussy
 	url = https://github.com/mojomast/orbitalussy.git
+[submodule "projects/dev-tools/triagiaussy"]
+	path = projects/dev-tools/triagiaussy
+	url = https://github.com/mojomast/triagiaussy.git
