@@ -625,3 +625,6 @@
 [submodule "projects/dev-tools/paddockussy"]
 	path = projects/dev-tools/paddockussy
 	url = https://github.com/mojomast/paddockussy.git
+[submodule "projects/dev-tools/stomataussy"]
+	path = projects/dev-tools/stomataussy
+	url = https://github.com/mojomast/stomataussy.git
