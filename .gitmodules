@@ -574,3 +574,6 @@
 [submodule "projects/web-apps/tenocyteussy"]
 	path = projects/web-apps/tenocyteussy
 	url = https://github.com/mojomast/tenocyteussy.git
+[submodule "projects/dev-tools/photonaussy"]
+	path = projects/dev-tools/photonaussy
+	url = https://github.com/mojomast/photonaussy.git
