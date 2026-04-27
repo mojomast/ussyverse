@@ -592,3 +592,6 @@
 [submodule "projects/web-apps/pheromaussy"]
 	path = projects/web-apps/pheromaussy
 	url = https://github.com/mojomast/pheromaussy.git
+[submodule "projects/dev-tools/orbitalussy"]
+	path = projects/dev-tools/orbitalussy
+	url = https://github.com/mojomast/orbitalussy.git
