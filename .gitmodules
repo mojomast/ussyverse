@@ -589,3 +589,6 @@
 [submodule "projects/dev-tools/pupaussy"]
 	path = projects/dev-tools/pupaussy
 	url = https://github.com/mojomast/pupaussy.git
+[submodule "projects/web-apps/pheromaussy"]
+	path = projects/web-apps/pheromaussy
+	url = https://github.com/mojomast/pheromaussy.git
