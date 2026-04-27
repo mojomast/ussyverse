@@ -586,3 +586,6 @@
 [submodule "projects/data-science/resonaussy"]
 	path = projects/data-science/resonaussy
 	url = https://github.com/mojomast/resonaussy.git
+[submodule "projects/dev-tools/pupaussy"]
+	path = projects/dev-tools/pupaussy
+	url = https://github.com/mojomast/pupaussy.git
