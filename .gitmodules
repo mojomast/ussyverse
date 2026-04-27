@@ -577,3 +577,6 @@
 [submodule "projects/dev-tools/photonaussy"]
 	path = projects/dev-tools/photonaussy
 	url = https://github.com/mojomast/photonaussy.git
+[submodule "projects/data-science/saccadaussy"]
+	path = projects/data-science/saccadaussy
+	url = https://github.com/mojomast/saccadaussy.git
