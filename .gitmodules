@@ -622,3 +622,6 @@
 [submodule "projects/dev-tools/turnwiseussy"]
 	path = projects/dev-tools/turnwiseussy
 	url = https://github.com/mojomast/turnwiseussy.git
+[submodule "projects/dev-tools/paddockussy"]
+	path = projects/dev-tools/paddockussy
+	url = https://github.com/mojomast/paddockussy.git
