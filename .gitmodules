@@ -604,3 +604,6 @@
 [submodule "projects/dev-tools/chunkussy"]
 	path = projects/dev-tools/chunkussy
 	url = https://github.com/mojomast/chunkussy.git
+[submodule "projects/web-apps/soluteussy"]
+	path = projects/web-apps/soluteussy
+	url = https://github.com/mojomast/soluteussy.git
