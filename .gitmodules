@@ -646,3 +646,6 @@
 [submodule "projects/dev-tools/gatewiseussy"]
 	path = projects/dev-tools/gatewiseussy
 	url = https://github.com/mojomast/gatewiseussy.git
+[submodule "projects/creative/dendroussy"]
+	path = projects/creative/dendroussy
+	url = https://github.com/mojomast/dendroussy.git
