@@ -634,3 +634,6 @@
 [submodule "projects/infra/capstanussy"]
 	path = projects/infra/capstanussy
 	url = https://github.com/mojomast/capstanussy.git
+[submodule "projects/web-apps/vibraussy"]
+	path = projects/web-apps/vibraussy
+	url = https://github.com/mojomast/vibraussy.git
