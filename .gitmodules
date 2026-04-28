@@ -655,3 +655,6 @@
 [submodule "projects/dev-tools/criterioussy"]
 	path = projects/dev-tools/criterioussy
 	url = https://github.com/mojomast/criterioussy.git
+[submodule "projects/web-apps/saponinussy"]
+	path = projects/web-apps/saponinussy
+	url = https://github.com/mojomast/saponinussy.git
