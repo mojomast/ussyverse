@@ -643,3 +643,6 @@
 [submodule "projects/web-apps/plantaussy"]
 	path = projects/web-apps/plantaussy
 	url = https://github.com/mojomast/plantaussy.git
+[submodule "projects/dev-tools/gatewiseussy"]
+	path = projects/dev-tools/gatewiseussy
+	url = https://github.com/mojomast/gatewiseussy.git
