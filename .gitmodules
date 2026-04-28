@@ -652,3 +652,6 @@
 [submodule "projects/dev-tools/biofilmussy"]
 	path = projects/dev-tools/biofilmussy
 	url = https://github.com/mojomast/biofilmussy.git
+[submodule "projects/dev-tools/criterioussy"]
+	path = projects/dev-tools/criterioussy
+	url = https://github.com/mojomast/criterioussy.git
