@@ -667,3 +667,6 @@
 [submodule "projects/data-science/thermoussy"]
 	path = projects/data-science/thermoussy
 	url = https://github.com/mojomast/thermoussy.git
+[submodule "projects/dev-tools/boustroussy"]
+	path = projects/dev-tools/boustroussy
+	url = https://github.com/mojomast/boustroussy.git
