@@ -664,3 +664,6 @@
 [submodule "projects/web-apps/cryoraussy"]
 	path = projects/web-apps/cryoraussy
 	url = https://github.com/mojomast/cryoraussy.git
+[submodule "projects/data-science/thermoussy"]
+	path = projects/data-science/thermoussy
+	url = https://github.com/mojomast/thermoussy.git
