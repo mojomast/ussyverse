@@ -673,3 +673,6 @@
 [submodule "projects/data-science/tidepoolussy"]
 	path = projects/data-science/tidepoolussy
 	url = https://github.com/mojomast/tidepoolussy.git
+[submodule "projects/data-science/crackwiseussy"]
+	path = projects/data-science/crackwiseussy
+	url = https://github.com/mojomast/crackwiseussy.git
