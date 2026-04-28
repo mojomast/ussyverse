@@ -685,3 +685,6 @@
 [submodule "projects/data-science/morphemaussy"]
 	path = projects/data-science/morphemaussy
 	url = https://github.com/mojomast/morphemaussy.git
+[submodule "projects/data-science/kinesiaussy"]
+	path = projects/data-science/kinesiaussy
+	url = https://github.com/mojomast/kinesiaussy.git
