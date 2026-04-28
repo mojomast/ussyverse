@@ -637,3 +637,6 @@
 [submodule "projects/web-apps/vibraussy"]
 	path = projects/web-apps/vibraussy
 	url = https://github.com/mojomast/vibraussy.git
+[submodule "projects/data-science/pressoraussy"]
+	path = projects/data-science/pressoraussy
+	url = https://github.com/mojomast/pressoraussy.git
