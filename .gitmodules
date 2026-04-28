@@ -658,3 +658,6 @@
 [submodule "projects/web-apps/saponinussy"]
 	path = projects/web-apps/saponinussy
 	url = https://github.com/mojomast/saponinussy.git
+[submodule "projects/dev-tools/loadpathussy"]
+	path = projects/dev-tools/loadpathussy
+	url = https://github.com/mojomast/loadpathussy.git
