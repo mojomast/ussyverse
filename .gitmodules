@@ -661,3 +661,6 @@
 [submodule "projects/dev-tools/loadpathussy"]
 	path = projects/dev-tools/loadpathussy
 	url = https://github.com/mojomast/loadpathussy.git
+[submodule "projects/web-apps/cryoraussy"]
+	path = projects/web-apps/cryoraussy
+	url = https://github.com/mojomast/cryoraussy.git
