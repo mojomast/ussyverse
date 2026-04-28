@@ -679,3 +679,6 @@
 [submodule "projects/dev-tools/currentussy"]
 	path = projects/dev-tools/currentussy
 	url = https://github.com/mojomast/currentussy.git
+[submodule "projects/data-science/admeussy"]
+	path = projects/data-science/admeussy
+	url = https://github.com/mojomast/admeussy.git
