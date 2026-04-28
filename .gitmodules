@@ -640,3 +640,6 @@
 [submodule "projects/data-science/pressoraussy"]
 	path = projects/data-science/pressoraussy
 	url = https://github.com/mojomast/pressoraussy.git
+[submodule "projects/web-apps/plantaussy"]
+	path = projects/web-apps/plantaussy
+	url = https://github.com/mojomast/plantaussy.git
