@@ -691,3 +691,6 @@
 [submodule "projects/data-science/capillaussy"]
 	path = projects/data-science/capillaussy
 	url = https://github.com/mojomast/capillaussy.git
+[submodule "projects/dev-tools/formicaussy"]
+	path = projects/dev-tools/formicaussy
+	url = https://github.com/mojomast/formicaussy.git
