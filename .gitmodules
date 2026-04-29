@@ -733,3 +733,6 @@
 [submodule "projects/data-science/dermaussy"]
 	path = projects/data-science/dermaussy
 	url = https://github.com/mojomast/dermaussy.git
+[submodule "projects/dev-tools/scaffoldussy"]
+	path = projects/dev-tools/scaffoldussy
+	url = https://github.com/mojomast/scaffoldussy.git
