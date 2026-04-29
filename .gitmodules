@@ -736,3 +736,6 @@
 [submodule "projects/dev-tools/scaffoldussy"]
 	path = projects/dev-tools/scaffoldussy
 	url = https://github.com/mojomast/scaffoldussy.git
+[submodule "projects/web-apps/palpaussy"]
+	path = projects/web-apps/palpaussy
+	url = https://github.com/mojomast/palpaussy.git
