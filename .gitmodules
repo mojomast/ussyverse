@@ -706,3 +706,6 @@
 [submodule "projects/web-apps/egressaussy"]
 	path = projects/web-apps/egressaussy
 	url = https://github.com/mojomast/egressaussy.git
+[submodule "projects/creative/vesselussy"]
+	path = projects/creative/vesselussy
+	url = https://github.com/mojomast/vesselussy.git
