@@ -709,3 +709,6 @@
 [submodule "projects/creative/vesselussy"]
 	path = projects/creative/vesselussy
 	url = https://github.com/mojomast/vesselussy.git
+[submodule "projects/data-science/stoichussy"]
+	path = projects/data-science/stoichussy
+	url = https://github.com/mojomast/stoichussy.git
