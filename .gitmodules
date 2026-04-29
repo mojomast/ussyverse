@@ -700,3 +700,6 @@
 [submodule "projects/web-apps/slabwiseussy"]
 	path = projects/web-apps/slabwiseussy
 	url = https://github.com/mojomast/slabwiseussy.git
+[submodule "projects/dev-tools/cladwiseussy"]
+	path = projects/dev-tools/cladwiseussy
+	url = https://github.com/mojomast/cladwiseussy.git
