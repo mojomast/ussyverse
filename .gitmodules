@@ -721,3 +721,6 @@
 [submodule "projects/creative/binderyussy"]
 	path = projects/creative/binderyussy
 	url = https://github.com/mojomast/binderyussy.git
+[submodule "projects/data-science/granulaussy"]
+	path = projects/data-science/granulaussy
+	url = https://github.com/mojomast/granulaussy.git
