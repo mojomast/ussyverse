@@ -745,3 +745,6 @@
 [submodule "projects/web-apps/taphonussy"]
 	path = projects/web-apps/taphonussy
 	url = https://github.com/mojomast/taphonussy.git
+[submodule "projects/data-science/sorpraussy"]
+	path = projects/data-science/sorpraussy
+	url = https://github.com/mojomast/sorpraussy.git
