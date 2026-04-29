@@ -739,3 +739,6 @@
 [submodule "projects/web-apps/palpaussy"]
 	path = projects/web-apps/palpaussy
 	url = https://github.com/mojomast/palpaussy.git
+[submodule "projects/web-apps/migrationussy"]
+	path = projects/web-apps/migrationussy
+	url = https://github.com/mojomast/migrationussy.git
