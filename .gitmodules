@@ -751,3 +751,6 @@
 [submodule "projects/creative/stellarussy"]
 	path = projects/creative/stellarussy
 	url = https://github.com/mojomast/stellarussy.git
+[submodule "projects/web-apps/nicheussy"]
+	path = projects/web-apps/nicheussy
+	url = https://github.com/mojomast/nicheussy.git
