@@ -748,3 +748,6 @@
 [submodule "projects/data-science/sorpraussy"]
 	path = projects/data-science/sorpraussy
 	url = https://github.com/mojomast/sorpraussy.git
+[submodule "projects/creative/stellarussy"]
+	path = projects/creative/stellarussy
+	url = https://github.com/mojomast/stellarussy.git
