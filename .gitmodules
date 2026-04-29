@@ -715,3 +715,6 @@
 [submodule "projects/data-science/pulmoussy"]
 	path = projects/data-science/pulmoussy
 	url = https://github.com/mojomast/pulmoussy.git
+[submodule "projects/dev-tools/patinaussy"]
+	path = projects/dev-tools/patinaussy
+	url = https://github.com/mojomast/patinaussy.git
