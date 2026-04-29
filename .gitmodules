@@ -742,3 +742,6 @@
 [submodule "projects/web-apps/migrationussy"]
 	path = projects/web-apps/migrationussy
 	url = https://github.com/mojomast/migrationussy.git
+[submodule "projects/web-apps/taphonussy"]
+	path = projects/web-apps/taphonussy
+	url = https://github.com/mojomast/taphonussy.git
