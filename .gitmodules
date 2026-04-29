@@ -730,3 +730,6 @@
 [submodule "projects/data-science/celestialussy"]
 	path = projects/data-science/celestialussy
 	url = https://github.com/mojomast/celestialussy.git
+[submodule "projects/data-science/dermaussy"]
+	path = projects/data-science/dermaussy
+	url = https://github.com/mojomast/dermaussy.git
