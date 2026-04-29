@@ -703,3 +703,6 @@
 [submodule "projects/dev-tools/cladwiseussy"]
 	path = projects/dev-tools/cladwiseussy
 	url = https://github.com/mojomast/cladwiseussy.git
+[submodule "projects/web-apps/egressaussy"]
+	path = projects/web-apps/egressaussy
+	url = https://github.com/mojomast/egressaussy.git
