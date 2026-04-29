@@ -724,3 +724,6 @@
 [submodule "projects/data-science/granulaussy"]
 	path = projects/data-science/granulaussy
 	url = https://github.com/mojomast/granulaussy.git
+[submodule "projects/web-apps/honeussy"]
+	path = projects/web-apps/honeussy
+	url = https://github.com/mojomast/honeussy.git
