@@ -694,3 +694,6 @@
 [submodule "projects/dev-tools/formicaussy"]
 	path = projects/dev-tools/formicaussy
 	url = https://github.com/mojomast/formicaussy.git
+[submodule "projects/web-apps/electraussy"]
+	path = projects/web-apps/electraussy
+	url = https://github.com/mojomast/electraussy.git
