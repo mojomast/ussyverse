@@ -718,3 +718,6 @@
 [submodule "projects/dev-tools/patinaussy"]
 	path = projects/dev-tools/patinaussy
 	url = https://github.com/mojomast/patinaussy.git
+[submodule "projects/creative/binderyussy"]
+	path = projects/creative/binderyussy
+	url = https://github.com/mojomast/binderyussy.git
