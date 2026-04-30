@@ -763,3 +763,6 @@
 [submodule "projects/web-apps/cloforaussy"]
 	path = projects/web-apps/cloforaussy
 	url = https://github.com/mojomast/cloforaussy.git
+[submodule "projects/dev-tools/elastaussy"]
+	path = projects/dev-tools/elastaussy
+	url = https://github.com/mojomast/elastaussy.git
