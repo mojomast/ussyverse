@@ -787,3 +787,6 @@
 [submodule "projects/data-science/hammeraussy"]
 	path = projects/data-science/hammeraussy
 	url = https://github.com/mojomast/hammeraussy.git
+[submodule "projects/creative/gemmaussy"]
+	path = projects/creative/gemmaussy
+	url = https://github.com/mojomast/gemmaussy.git
