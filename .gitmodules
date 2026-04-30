@@ -790,3 +790,6 @@
 [submodule "projects/creative/gemmaussy"]
 	path = projects/creative/gemmaussy
 	url = https://github.com/mojomast/gemmaussy.git
+[submodule "projects/data-science/aeronaussy"]
+	path = projects/data-science/aeronaussy
+	url = https://github.com/mojomast/aeronaussy.git
