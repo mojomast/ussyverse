@@ -760,3 +760,6 @@
 [submodule "projects/web-apps/hoistussy"]
 	path = projects/web-apps/hoistussy
 	url = https://github.com/mojomast/hoistussy.git
+[submodule "projects/web-apps/cloforaussy"]
+	path = projects/web-apps/cloforaussy
+	url = https://github.com/mojomast/cloforaussy.git
