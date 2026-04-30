@@ -781,3 +781,6 @@
 [submodule "projects/data-science/citewiseussy"]
 	path = projects/data-science/citewiseussy
 	url = https://github.com/mojomast/citewiseussy.git
+[submodule "projects/web-apps/adheraussy"]
+	path = projects/web-apps/adheraussy
+	url = https://github.com/mojomast/adheraussy.git
