@@ -769,3 +769,6 @@
 [submodule "projects/data-science/triboussy"]
 	path = projects/data-science/triboussy
 	url = https://github.com/mojomast/triboussy.git
+[submodule "projects/web-apps/effusaussy"]
+	path = projects/web-apps/effusaussy
+	url = https://github.com/mojomast/effusaussy.git
