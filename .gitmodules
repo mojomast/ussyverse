@@ -802,3 +802,6 @@
 [submodule "projects/creative/obscuraussy"]
 	path = projects/creative/obscuraussy
 	url = https://github.com/mojomast/obscuraussy.git
+[submodule "projects/creative/scansionussy"]
+	path = projects/creative/scansionussy
+	url = https://github.com/mojomast/scansionussy.git
