@@ -766,3 +766,6 @@
 [submodule "projects/dev-tools/elastaussy"]
 	path = projects/dev-tools/elastaussy
 	url = https://github.com/mojomast/elastaussy.git
+[submodule "projects/data-science/triboussy"]
+	path = projects/data-science/triboussy
+	url = https://github.com/mojomast/triboussy.git
