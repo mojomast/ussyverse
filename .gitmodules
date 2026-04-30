@@ -775,3 +775,6 @@
 [submodule "projects/dev-tools/chainletussy"]
 	path = projects/dev-tools/chainletussy
 	url = https://github.com/mojomast/chainletussy.git
+[submodule "projects/web-apps/ritualaussy"]
+	path = projects/web-apps/ritualaussy
+	url = https://github.com/mojomast/ritualaussy.git
