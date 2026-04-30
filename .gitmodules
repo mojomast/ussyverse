@@ -757,3 +757,6 @@
 [submodule "projects/creative/mashussy"]
 	path = projects/creative/mashussy
 	url = https://github.com/mojomast/mashussy.git
+[submodule "projects/web-apps/hoistussy"]
+	path = projects/web-apps/hoistussy
+	url = https://github.com/mojomast/hoistussy.git
