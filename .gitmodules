@@ -784,3 +784,6 @@
 [submodule "projects/web-apps/adheraussy"]
 	path = projects/web-apps/adheraussy
 	url = https://github.com/mojomast/adheraussy.git
+[submodule "projects/data-science/hammeraussy"]
+	path = projects/data-science/hammeraussy
+	url = https://github.com/mojomast/hammeraussy.git
