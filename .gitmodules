@@ -808,3 +808,6 @@
 [submodule "projects/dev-tools/rotationussy"]
 	path = projects/dev-tools/rotationussy
 	url = https://github.com/mojomast/rotationussy.git
+[submodule "projects/web-apps/kuleshovussy"]
+	path = projects/web-apps/kuleshovussy
+	url = https://github.com/mojomast/kuleshovussy.git
