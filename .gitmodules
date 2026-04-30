@@ -805,3 +805,6 @@
 [submodule "projects/creative/scansionussy"]
 	path = projects/creative/scansionussy
 	url = https://github.com/mojomast/scansionussy.git
+[submodule "projects/dev-tools/rotationussy"]
+	path = projects/dev-tools/rotationussy
+	url = https://github.com/mojomast/rotationussy.git
