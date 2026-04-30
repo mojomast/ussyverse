@@ -796,3 +796,6 @@
 [submodule "projects/web-apps/portolanussy"]
 	path = projects/web-apps/portolanussy
 	url = https://github.com/mojomast/portolanussy.git
+[submodule "projects/web-apps/tangleaussy"]
+	path = projects/web-apps/tangleaussy
+	url = https://github.com/mojomast/tangleaussy.git
