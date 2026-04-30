@@ -754,3 +754,6 @@
 [submodule "projects/web-apps/nicheussy"]
 	path = projects/web-apps/nicheussy
 	url = https://github.com/mojomast/nicheussy.git
+[submodule "projects/creative/mashussy"]
+	path = projects/creative/mashussy
+	url = https://github.com/mojomast/mashussy.git
