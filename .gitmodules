@@ -799,3 +799,6 @@
 [submodule "projects/web-apps/tangleaussy"]
 	path = projects/web-apps/tangleaussy
 	url = https://github.com/mojomast/tangleaussy.git
+[submodule "projects/creative/obscuraussy"]
+	path = projects/creative/obscuraussy
+	url = https://github.com/mojomast/obscuraussy.git
