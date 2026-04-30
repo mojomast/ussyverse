@@ -778,3 +778,6 @@
 [submodule "projects/web-apps/ritualaussy"]
 	path = projects/web-apps/ritualaussy
 	url = https://github.com/mojomast/ritualaussy.git
+[submodule "projects/data-science/citewiseussy"]
+	path = projects/data-science/citewiseussy
+	url = https://github.com/mojomast/citewiseussy.git
