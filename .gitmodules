@@ -772,3 +772,6 @@
 [submodule "projects/web-apps/effusaussy"]
 	path = projects/web-apps/effusaussy
 	url = https://github.com/mojomast/effusaussy.git
+[submodule "projects/dev-tools/chainletussy"]
+	path = projects/dev-tools/chainletussy
+	url = https://github.com/mojomast/chainletussy.git
