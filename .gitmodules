@@ -793,3 +793,6 @@
 [submodule "projects/data-science/aeronaussy"]
 	path = projects/data-science/aeronaussy
 	url = https://github.com/mojomast/aeronaussy.git
+[submodule "projects/web-apps/portolanussy"]
+	path = projects/web-apps/portolanussy
+	url = https://github.com/mojomast/portolanussy.git
