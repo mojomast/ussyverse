@@ -814,3 +814,6 @@
 [submodule "projects/web-apps/controlaussy"]
 	path = projects/web-apps/controlaussy
 	url = https://github.com/mojomast/controlaussy.git
+[submodule "projects/creative/motifussy"]
+	path = projects/creative/motifussy
+	url = https://github.com/mojomast/motifussy.git
