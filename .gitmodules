@@ -853,3 +853,6 @@
 [submodule "projects/data-science/mortussy"]
 	path = projects/data-science/mortussy
 	url = https://github.com/mojomast/mortussy.git
+[submodule "projects/web-apps/criticaussy"]
+	path = projects/web-apps/criticaussy
+	url = https://github.com/mojomast/criticaussy.git
