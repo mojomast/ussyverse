@@ -841,3 +841,6 @@
 [submodule "projects/dev-tools/meridianussy"]
 	path = projects/dev-tools/meridianussy
 	url = https://github.com/mojomast/meridianussy.git
+[submodule "projects/data-science/occlusaussy"]
+	path = projects/data-science/occlusaussy
+	url = https://github.com/mojomast/occlusaussy.git
