@@ -820,3 +820,6 @@
 [submodule "projects/data-science/bloomaussy"]
 	path = projects/data-science/bloomaussy
 	url = https://github.com/mojomast/bloomaussy.git
+[submodule "projects/creative/metameraussy"]
+	path = projects/creative/metameraussy
+	url = https://github.com/mojomast/metameraussy.git
