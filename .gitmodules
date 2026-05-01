@@ -847,3 +847,6 @@
 [submodule "projects/web-apps/morphicaussy"]
 	path = projects/web-apps/morphicaussy
 	url = https://github.com/mojomast/morphicaussy.git
+[submodule "projects/data-science/floraussy"]
+	path = projects/data-science/floraussy
+	url = https://github.com/mojomast/floraussy.git
