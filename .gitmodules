@@ -835,3 +835,6 @@
 [submodule "projects/web-apps/retouraussy"]
 	path = projects/web-apps/retouraussy
 	url = https://github.com/mojomast/retouraussy.git
+[submodule "projects/dev-tools/validaraussy"]
+	path = projects/dev-tools/validaraussy
+	url = https://github.com/mojomast/validaraussy.git
