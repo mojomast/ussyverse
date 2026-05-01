@@ -838,3 +838,6 @@
 [submodule "projects/dev-tools/validaraussy"]
 	path = projects/dev-tools/validaraussy
 	url = https://github.com/mojomast/validaraussy.git
+[submodule "projects/dev-tools/meridianussy"]
+	path = projects/dev-tools/meridianussy
+	url = https://github.com/mojomast/meridianussy.git
