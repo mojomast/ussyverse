@@ -823,3 +823,6 @@
 [submodule "projects/creative/metameraussy"]
 	path = projects/creative/metameraussy
 	url = https://github.com/mojomast/metameraussy.git
+[submodule "projects/data-science/bidussy"]
+	path = projects/data-science/bidussy
+	url = https://github.com/mojomast/bidussy.git
