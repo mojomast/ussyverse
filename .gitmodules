@@ -856,3 +856,6 @@
 [submodule "projects/web-apps/criticaussy"]
 	path = projects/web-apps/criticaussy
 	url = https://github.com/mojomast/criticaussy.git
+[submodule "projects/web-apps/circleraussy"]
+	path = projects/web-apps/circleraussy
+	url = https://github.com/mojomast/circleraussy.git
