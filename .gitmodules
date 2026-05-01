@@ -829,3 +829,6 @@
 [submodule "projects/creative/cartoucheussy"]
 	path = projects/creative/cartoucheussy
 	url = https://github.com/mojomast/cartoucheussy.git
+[submodule "projects/web-apps/epigeneticussy"]
+	path = projects/web-apps/epigeneticussy
+	url = https://github.com/mojomast/epigeneticussy.git
