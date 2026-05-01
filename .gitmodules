@@ -817,3 +817,6 @@
 [submodule "projects/creative/motifussy"]
 	path = projects/creative/motifussy
 	url = https://github.com/mojomast/motifussy.git
+[submodule "projects/data-science/bloomaussy"]
+	path = projects/data-science/bloomaussy
+	url = https://github.com/mojomast/bloomaussy.git
