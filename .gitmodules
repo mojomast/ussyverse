@@ -844,3 +844,6 @@
 [submodule "projects/data-science/occlusaussy"]
 	path = projects/data-science/occlusaussy
 	url = https://github.com/mojomast/occlusaussy.git
+[submodule "projects/web-apps/morphicaussy"]
+	path = projects/web-apps/morphicaussy
+	url = https://github.com/mojomast/morphicaussy.git
