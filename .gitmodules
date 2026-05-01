@@ -868,3 +868,6 @@
 [submodule "projects/dev-tools/cutsetussy"]
 	path = projects/dev-tools/cutsetussy
 	url = https://github.com/mojomast/cutsetussy.git
+[submodule "projects/web-apps/benfordaussy"]
+	path = projects/web-apps/benfordaussy
+	url = https://github.com/mojomast/benfordaussy.git
