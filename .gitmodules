@@ -826,3 +826,6 @@
 [submodule "projects/data-science/bidussy"]
 	path = projects/data-science/bidussy
 	url = https://github.com/mojomast/bidussy.git
+[submodule "projects/creative/cartoucheussy"]
+	path = projects/creative/cartoucheussy
+	url = https://github.com/mojomast/cartoucheussy.git
