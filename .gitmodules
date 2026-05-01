@@ -859,3 +859,6 @@
 [submodule "projects/web-apps/circleraussy"]
 	path = projects/web-apps/circleraussy
 	url = https://github.com/mojomast/circleraussy.git
+[submodule "projects/dev-tools/prospectaussy"]
+	path = projects/dev-tools/prospectaussy
+	url = https://github.com/mojomast/prospectaussy.git
