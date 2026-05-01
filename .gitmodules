@@ -871,3 +871,6 @@
 [submodule "projects/web-apps/benfordaussy"]
 	path = projects/web-apps/benfordaussy
 	url = https://github.com/mojomast/benfordaussy.git
+[submodule "projects/data-science/shewhartaussy"]
+	path = projects/data-science/shewhartaussy
+	url = https://github.com/mojomast/shewhartaussy.git
