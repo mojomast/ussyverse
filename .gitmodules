@@ -862,3 +862,6 @@
 [submodule "projects/dev-tools/prospectaussy"]
 	path = projects/dev-tools/prospectaussy
 	url = https://github.com/mojomast/prospectaussy.git
+[submodule "projects/dev-tools/diopterussy"]
+	path = projects/dev-tools/diopterussy
+	url = https://github.com/mojomast/diopterussy.git
