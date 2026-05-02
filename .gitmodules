@@ -913,3 +913,6 @@
 [submodule "projects/dev-tools/seralaussy"]
 	path = projects/dev-tools/seralaussy
 	url = https://github.com/mojomast/seralaussy.git
+[submodule "projects/web-apps/groomaussy"]
+	path = projects/web-apps/groomaussy
+	url = https://github.com/mojomast/groomaussy.git
