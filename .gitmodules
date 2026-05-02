@@ -892,3 +892,6 @@
 [submodule "projects/creative/altshulleraussy"]
 	path = projects/creative/altshulleraussy
 	url = https://github.com/mojomast/altshulleraussy.git
+[submodule "projects/web-apps/modesaussy"]
+	path = projects/web-apps/modesaussy
+	url = https://github.com/mojomast/modesaussy.git
