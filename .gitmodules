@@ -889,3 +889,6 @@
 [submodule "projects/dev-tools/patchwiseussy"]
 	path = projects/dev-tools/patchwiseussy
 	url = https://github.com/mojomast/patchwiseussy.git
+[submodule "projects/creative/altshulleraussy"]
+	path = projects/creative/altshulleraussy
+	url = https://github.com/mojomast/altshulleraussy.git
