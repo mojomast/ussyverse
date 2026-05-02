@@ -883,3 +883,6 @@
 [submodule "projects/dev-tools/trialwiseussy"]
 	path = projects/dev-tools/trialwiseussy
 	url = https://github.com/mojomast/trialwiseussy.git
+[submodule "projects/data-science/chargeguardussy"]
+	path = projects/data-science/chargeguardussy
+	url = https://github.com/mojomast/chargeguardussy.git
