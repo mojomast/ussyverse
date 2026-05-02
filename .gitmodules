@@ -904,3 +904,6 @@
 [submodule "projects/dev-tools/fascinaussy"]
 	path = projects/dev-tools/fascinaussy
 	url = https://github.com/mojomast/fascinaussy.git
+[submodule "projects/data-science/zooxussy"]
+	path = projects/data-science/zooxussy
+	url = https://github.com/mojomast/zooxussy.git
