@@ -877,3 +877,6 @@
 [submodule "projects/data-science/hazardaussy"]
 	path = projects/data-science/hazardaussy
 	url = https://github.com/mojomast/hazardaussy.git
+[submodule "projects/web-apps/weberaussy"]
+	path = projects/web-apps/weberaussy
+	url = https://github.com/mojomast/weberaussy.git
