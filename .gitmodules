@@ -886,3 +886,6 @@
 [submodule "projects/data-science/chargeguardussy"]
 	path = projects/data-science/chargeguardussy
 	url = https://github.com/mojomast/chargeguardussy.git
+[submodule "projects/dev-tools/patchwiseussy"]
+	path = projects/dev-tools/patchwiseussy
+	url = https://github.com/mojomast/patchwiseussy.git
