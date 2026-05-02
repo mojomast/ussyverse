@@ -910,3 +910,6 @@
 [submodule "projects/web-apps/commonsaussy"]
 	path = projects/web-apps/commonsaussy
 	url = https://github.com/mojomast/commonsaussy.git
+[submodule "projects/dev-tools/seralaussy"]
+	path = projects/dev-tools/seralaussy
+	url = https://github.com/mojomast/seralaussy.git
