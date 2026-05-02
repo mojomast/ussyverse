@@ -898,3 +898,6 @@
 [submodule "projects/web-apps/sterilaussy"]
 	path = projects/web-apps/sterilaussy
 	url = https://github.com/mojomast/sterilaussy.git
+[submodule "projects/web-apps/fittsaussy"]
+	path = projects/web-apps/fittsaussy
+	url = https://github.com/mojomast/fittsaussy.git
