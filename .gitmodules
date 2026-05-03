@@ -955,3 +955,6 @@
 [submodule "projects/web-apps/raciaussy"]
 	path = projects/web-apps/raciaussy
 	url = https://github.com/mojomast/raciaussy.git
+[submodule "projects/web-apps/maillaraussy"]
+	path = projects/web-apps/maillaraussy
+	url = https://github.com/mojomast/maillaraussy.git
