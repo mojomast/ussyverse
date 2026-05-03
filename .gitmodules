@@ -925,3 +925,6 @@
 [submodule "projects/data-science/probayaussy"]
 	path = projects/data-science/probayaussy
 	url = https://github.com/mojomast/probayaussy.git
+[submodule "projects/web-apps/aquariaussy"]
+	path = projects/web-apps/aquariaussy
+	url = https://github.com/mojomast/aquariaussy.git
