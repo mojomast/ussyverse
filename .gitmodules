@@ -928,3 +928,6 @@
 [submodule "projects/web-apps/aquariaussy"]
 	path = projects/web-apps/aquariaussy
 	url = https://github.com/mojomast/aquariaussy.git
+[submodule "projects/web-apps/decibellaussy"]
+	path = projects/web-apps/decibellaussy
+	url = https://github.com/mojomast/decibellaussy.git
