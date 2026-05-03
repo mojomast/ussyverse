@@ -937,3 +937,6 @@
 [submodule "projects/web-apps/catenariaussy"]
 	path = projects/web-apps/catenariaussy
 	url = https://github.com/mojomast/catenariaussy.git
+[submodule "projects/web-apps/vergentaussy"]
+	path = projects/web-apps/vergentaussy
+	url = https://github.com/mojomast/vergentaussy.git
