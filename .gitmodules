@@ -949,3 +949,6 @@
 [submodule "projects/web-apps/reverbaussy"]
 	path = projects/web-apps/reverbaussy
 	url = https://github.com/mojomast/reverbaussy.git
+[submodule "projects/web-apps/phonaraussy"]
+	path = projects/web-apps/phonaraussy
+	url = https://github.com/mojomast/phonaraussy.git
