@@ -922,3 +922,6 @@
 [submodule "projects/creative/foleyaussy"]
 	path = projects/creative/foleyaussy
 	url = https://github.com/mojomast/foleyaussy.git
+[submodule "projects/data-science/probayaussy"]
+	path = projects/data-science/probayaussy
+	url = https://github.com/mojomast/probayaussy.git
