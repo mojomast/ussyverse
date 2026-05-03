@@ -946,3 +946,6 @@
 [submodule "projects/web-apps/sortariaussy"]
 	path = projects/web-apps/sortariaussy
 	url = https://github.com/mojomast/sortariaussy.git
+[submodule "projects/web-apps/reverbaussy"]
+	path = projects/web-apps/reverbaussy
+	url = https://github.com/mojomast/reverbaussy.git
