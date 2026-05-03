@@ -919,3 +919,6 @@
 [submodule "projects/web-apps/phenoaussy"]
 	path = projects/web-apps/phenoaussy
 	url = https://github.com/mojomast/phenoaussy.git
+[submodule "projects/creative/foleyaussy"]
+	path = projects/creative/foleyaussy
+	url = https://github.com/mojomast/foleyaussy.git
