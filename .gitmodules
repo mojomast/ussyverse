@@ -931,3 +931,6 @@
 [submodule "projects/web-apps/decibellaussy"]
 	path = projects/web-apps/decibellaussy
 	url = https://github.com/mojomast/decibellaussy.git
+[submodule "projects/web-apps/horologussy"]
+	path = projects/web-apps/horologussy
+	url = https://github.com/mojomast/horologussy.git
