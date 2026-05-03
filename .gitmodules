@@ -940,3 +940,6 @@
 [submodule "projects/web-apps/vergentaussy"]
 	path = projects/web-apps/vergentaussy
 	url = https://github.com/mojomast/vergentaussy.git
+[submodule "projects/web-apps/compostaussy"]
+	path = projects/web-apps/compostaussy
+	url = https://github.com/mojomast/compostaussy.git
