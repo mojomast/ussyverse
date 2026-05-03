@@ -916,3 +916,6 @@
 [submodule "projects/web-apps/groomaussy"]
 	path = projects/web-apps/groomaussy
 	url = https://github.com/mojomast/groomaussy.git
+[submodule "projects/web-apps/phenoaussy"]
+	path = projects/web-apps/phenoaussy
+	url = https://github.com/mojomast/phenoaussy.git
