@@ -985,3 +985,6 @@
 [submodule "projects/web-apps/rulaiaussy"]
 	path = projects/web-apps/rulaiaussy
 	url = https://github.com/mojomast/rulaiaussy.git
+[submodule "projects/data-science/somnaussy"]
+	path = projects/data-science/somnaussy
+	url = https://github.com/mojomast/somnaussy.git
