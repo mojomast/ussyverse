@@ -958,3 +958,6 @@
 [submodule "projects/web-apps/maillaraussy"]
 	path = projects/web-apps/maillaraussy
 	url = https://github.com/mojomast/maillaraussy.git
+[submodule "projects/web-apps/tilthaussy"]
+	path = projects/web-apps/tilthaussy
+	url = https://github.com/mojomast/tilthaussy.git
