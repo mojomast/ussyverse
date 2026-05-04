@@ -976,3 +976,6 @@
 [submodule "projects/web-apps/calcaraussy"]
 	path = projects/web-apps/calcaraussy
 	url = https://github.com/mojomast/calcaraussy.git
+[submodule "projects/web-apps/kanoaussy"]
+	path = projects/web-apps/kanoaussy
+	url = https://github.com/mojomast/kanoaussy.git
