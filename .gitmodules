@@ -994,3 +994,6 @@
 [submodule "projects/web-apps/tympanaussy"]
 	path = projects/web-apps/tympanaussy
 	url = https://github.com/mojomast/tympanaussy.git
+[submodule "projects/web-apps/treadaussy"]
+	path = projects/web-apps/treadaussy
+	url = https://github.com/mojomast/treadaussy.git
