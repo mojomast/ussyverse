@@ -991,3 +991,6 @@
 [submodule "projects/web-apps/satiaussy"]
 	path = projects/web-apps/satiaussy
 	url = https://github.com/mojomast/satiaussy.git
+[submodule "projects/web-apps/tympanaussy"]
+	path = projects/web-apps/tympanaussy
+	url = https://github.com/mojomast/tympanaussy.git
