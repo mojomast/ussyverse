@@ -988,3 +988,6 @@
 [submodule "projects/data-science/somnaussy"]
 	path = projects/data-science/somnaussy
 	url = https://github.com/mojomast/somnaussy.git
+[submodule "projects/web-apps/satiaussy"]
+	path = projects/web-apps/satiaussy
+	url = https://github.com/mojomast/satiaussy.git
