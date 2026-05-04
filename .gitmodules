@@ -967,3 +967,6 @@
 [submodule "projects/web-apps/lensaraussy"]
 	path = projects/web-apps/lensaraussy
 	url = https://github.com/mojomast/lensaraussy.git
+[submodule "projects/web-apps/cicatraussy"]
+	path = projects/web-apps/cicatraussy
+	url = https://github.com/mojomast/cicatraussy.git
