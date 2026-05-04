@@ -997,3 +997,6 @@
 [submodule "projects/web-apps/treadaussy"]
 	path = projects/web-apps/treadaussy
 	url = https://github.com/mojomast/treadaussy.git
+[submodule "projects/web-apps/inferaussy"]
+	path = projects/web-apps/inferaussy
+	url = https://github.com/mojomast/inferaussy.git
