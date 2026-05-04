@@ -970,3 +970,6 @@
 [submodule "projects/web-apps/cicatraussy"]
 	path = projects/web-apps/cicatraussy
 	url = https://github.com/mojomast/cicatraussy.git
+[submodule "projects/web-apps/transactaussy"]
+	path = projects/web-apps/transactaussy
+	url = https://github.com/mojomast/transactaussy.git
