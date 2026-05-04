@@ -964,3 +964,6 @@
 [submodule "projects/web-apps/cuticulaussy"]
 	path = projects/web-apps/cuticulaussy
 	url = https://github.com/mojomast/cuticulaussy.git
+[submodule "projects/web-apps/lensaraussy"]
+	path = projects/web-apps/lensaraussy
+	url = https://github.com/mojomast/lensaraussy.git
