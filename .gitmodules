@@ -973,3 +973,6 @@
 [submodule "projects/web-apps/transactaussy"]
 	path = projects/web-apps/transactaussy
 	url = https://github.com/mojomast/transactaussy.git
+[submodule "projects/web-apps/calcaraussy"]
+	path = projects/web-apps/calcaraussy
+	url = https://github.com/mojomast/calcaraussy.git
