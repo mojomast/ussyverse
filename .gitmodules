@@ -979,3 +979,6 @@
 [submodule "projects/web-apps/kanoaussy"]
 	path = projects/web-apps/kanoaussy
 	url = https://github.com/mojomast/kanoaussy.git
+[submodule "projects/data-science/lossicaussy"]
+	path = projects/data-science/lossicaussy
+	url = https://github.com/mojomast/lossicaussy.git
