@@ -1015,3 +1015,6 @@
 [submodule "projects/web-apps/radonaussy"]
 	path = projects/web-apps/radonaussy
 	url = https://github.com/mojomast/radonaussy.git
+[submodule "projects/web-apps/dualiaussy"]
+	path = projects/web-apps/dualiaussy
+	url = https://github.com/mojomast/dualiaussy.git
