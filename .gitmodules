@@ -1003,3 +1003,6 @@
 [submodule "projects/creative/luminaraussy"]
 	path = projects/creative/luminaraussy
 	url = https://github.com/mojomast/luminaraussy.git
+[submodule "projects/data-science/wetbulbaussy"]
+	path = projects/data-science/wetbulbaussy
+	url = https://github.com/mojomast/wetbulbaussy.git
