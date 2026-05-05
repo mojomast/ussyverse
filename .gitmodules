@@ -1009,3 +1009,6 @@
 [submodule "projects/web-apps/solaraussy"]
 	path = projects/web-apps/solaraussy
 	url = https://github.com/mojomast/solaraussy.git
+[submodule "projects/web-apps/oarsaussy"]
+	path = projects/web-apps/oarsaussy
+	url = https://github.com/mojomast/oarsaussy.git
