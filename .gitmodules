@@ -1018,3 +1018,6 @@
 [submodule "projects/web-apps/dualiaussy"]
 	path = projects/web-apps/dualiaussy
 	url = https://github.com/mojomast/dualiaussy.git
+[submodule "projects/web-apps/extinguaussy"]
+	path = projects/web-apps/extinguaussy
+	url = https://github.com/mojomast/extinguaussy.git
