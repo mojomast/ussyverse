@@ -1033,3 +1033,6 @@
 [submodule "projects/web-apps/ovuleraussy"]
 	path = projects/web-apps/ovuleraussy
 	url = https://github.com/mojomast/ovuleraussy.git
+[submodule "projects/web-apps/sumpaussy"]
+	path = projects/web-apps/sumpaussy
+	url = https://github.com/mojomast/sumpaussy.git
