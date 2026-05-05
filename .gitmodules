@@ -1024,3 +1024,6 @@
 [submodule "projects/web-apps/interferaussy"]
 	path = projects/web-apps/interferaussy
 	url = https://github.com/mojomast/interferaussy.git
+[submodule "projects/web-apps/haptenaussy"]
+	path = projects/web-apps/haptenaussy
+	url = https://github.com/mojomast/haptenaussy.git
