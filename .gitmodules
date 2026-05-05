@@ -1000,3 +1000,6 @@
 [submodule "projects/web-apps/inferaussy"]
 	path = projects/web-apps/inferaussy
 	url = https://github.com/mojomast/inferaussy.git
+[submodule "projects/creative/luminaraussy"]
+	path = projects/creative/luminaraussy
+	url = https://github.com/mojomast/luminaraussy.git
