@@ -1027,3 +1027,6 @@
 [submodule "projects/web-apps/haptenaussy"]
 	path = projects/web-apps/haptenaussy
 	url = https://github.com/mojomast/haptenaussy.git
+[submodule "projects/web-apps/neophagaussy"]
+	path = projects/web-apps/neophagaussy
+	url = https://github.com/mojomast/neophagaussy.git
