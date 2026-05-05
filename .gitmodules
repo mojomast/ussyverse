@@ -1030,3 +1030,6 @@
 [submodule "projects/web-apps/neophagaussy"]
 	path = projects/web-apps/neophagaussy
 	url = https://github.com/mojomast/neophagaussy.git
+[submodule "projects/web-apps/ovuleraussy"]
+	path = projects/web-apps/ovuleraussy
+	url = https://github.com/mojomast/ovuleraussy.git
