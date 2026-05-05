@@ -1021,3 +1021,6 @@
 [submodule "projects/web-apps/extinguaussy"]
 	path = projects/web-apps/extinguaussy
 	url = https://github.com/mojomast/extinguaussy.git
+[submodule "projects/web-apps/interferaussy"]
+	path = projects/web-apps/interferaussy
+	url = https://github.com/mojomast/interferaussy.git
