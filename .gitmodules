@@ -1006,3 +1006,6 @@
 [submodule "projects/data-science/wetbulbaussy"]
 	path = projects/data-science/wetbulbaussy
 	url = https://github.com/mojomast/wetbulbaussy.git
+[submodule "projects/web-apps/solaraussy"]
+	path = projects/web-apps/solaraussy
+	url = https://github.com/mojomast/solaraussy.git
