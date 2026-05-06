@@ -1057,3 +1057,6 @@
 [submodule "projects/creative/mordantaussy"]
 	path = projects/creative/mordantaussy
 	url = https://github.com/mojomast/mordantaussy.git
+[submodule "projects/web-apps/semaphoraussy"]
+	path = projects/web-apps/semaphoraussy
+	url = https://github.com/mojomast/semaphoraussy.git
