@@ -1042,3 +1042,6 @@
 [submodule "projects/data-science/orseraussy"]
 	path = projects/data-science/orseraussy
 	url = https://github.com/mojomast/orseraussy.git
+[submodule "projects/web-apps/exemplaussy"]
+	path = projects/web-apps/exemplaussy
+	url = https://github.com/mojomast/exemplaussy.git
