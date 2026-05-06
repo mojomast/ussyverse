@@ -1048,3 +1048,6 @@
 [submodule "projects/web-apps/trapsealussy"]
 	path = projects/web-apps/trapsealussy
 	url = https://github.com/mojomast/trapsealussy.git
+[submodule "projects/web-apps/sialiaussy"]
+	path = projects/web-apps/sialiaussy
+	url = https://github.com/mojomast/sialiaussy.git
