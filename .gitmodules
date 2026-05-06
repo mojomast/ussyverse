@@ -1060,3 +1060,6 @@
 [submodule "projects/web-apps/semaphoraussy"]
 	path = projects/web-apps/semaphoraussy
 	url = https://github.com/mojomast/semaphoraussy.git
+[submodule "projects/web-apps/ceruminaussy"]
+	path = projects/web-apps/ceruminaussy
+	url = https://github.com/mojomast/ceruminaussy.git
