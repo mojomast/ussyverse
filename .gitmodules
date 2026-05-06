@@ -1039,3 +1039,6 @@
 [submodule "projects/web-apps/plumiaussy"]
 	path = projects/web-apps/plumiaussy
 	url = https://github.com/mojomast/plumiaussy.git
+[submodule "projects/data-science/orseraussy"]
+	path = projects/data-science/orseraussy
+	url = https://github.com/mojomast/orseraussy.git
