@@ -1066,3 +1066,6 @@
 [submodule "projects/web-apps/anellaussy"]
 	path = projects/web-apps/anellaussy
 	url = https://github.com/mojomast/anellaussy.git
+[submodule "projects/creative/kerfwiseussy"]
+	path = projects/creative/kerfwiseussy
+	url = https://github.com/mojomast/kerfwiseussy.git
