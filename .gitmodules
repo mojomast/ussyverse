@@ -1054,3 +1054,6 @@
 [submodule "projects/web-apps/onychaussy"]
 	path = projects/web-apps/onychaussy
 	url = https://github.com/mojomast/onychaussy.git
+[submodule "projects/creative/mordantaussy"]
+	path = projects/creative/mordantaussy
+	url = https://github.com/mojomast/mordantaussy.git
