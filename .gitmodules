@@ -1111,3 +1111,6 @@
 [submodule "projects/web-apps/ottaviaussy"]
 	path = projects/web-apps/ottaviaussy
 	url = https://github.com/mojomast/ottaviaussy.git
+[submodule "projects/web-apps/carboxaussy"]
+	path = projects/web-apps/carboxaussy
+	url = https://github.com/mojomast/carboxaussy.git
