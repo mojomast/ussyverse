@@ -1102,3 +1102,6 @@
 [submodule "projects/web-apps/riptidaussy"]
 	path = projects/web-apps/riptidaussy
 	url = https://github.com/mojomast/riptidaussy.git
+[submodule "projects/web-apps/urticaraussy"]
+	path = projects/web-apps/urticaraussy
+	url = https://github.com/mojomast/urticaraussy.git
