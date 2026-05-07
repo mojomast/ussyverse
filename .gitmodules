@@ -1087,3 +1087,6 @@
 [submodule "projects/web-apps/bolusaussy"]
 	path = projects/web-apps/bolusaussy
 	url = https://github.com/mojomast/bolusaussy.git
+[submodule "projects/web-apps/beaufortaussy"]
+	path = projects/web-apps/beaufortaussy
+	url = https://github.com/mojomast/beaufortaussy.git
