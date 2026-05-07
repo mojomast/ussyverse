@@ -1105,3 +1105,6 @@
 [submodule "projects/web-apps/urticaraussy"]
 	path = projects/web-apps/urticaraussy
 	url = https://github.com/mojomast/urticaraussy.git
+[submodule "projects/web-apps/acclimaussy"]
+	path = projects/web-apps/acclimaussy
+	url = https://github.com/mojomast/acclimaussy.git
