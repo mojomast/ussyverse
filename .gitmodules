@@ -1114,3 +1114,6 @@
 [submodule "projects/web-apps/carboxaussy"]
 	path = projects/web-apps/carboxaussy
 	url = https://github.com/mojomast/carboxaussy.git
+[submodule "projects/web-apps/vorticaussy"]
+	path = projects/web-apps/vorticaussy
+	url = https://github.com/mojomast/vorticaussy.git
