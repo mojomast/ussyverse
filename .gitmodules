@@ -1096,3 +1096,6 @@
 [submodule "projects/creative/chromascriptussy"]
 	path = projects/creative/chromascriptussy
 	url = https://github.com/mojomast/chromascriptussy.git
+[submodule "projects/web-apps/fulguraussy"]
+	path = projects/web-apps/fulguraussy
+	url = https://github.com/mojomast/fulguraussy.git
