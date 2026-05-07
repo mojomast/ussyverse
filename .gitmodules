@@ -1078,3 +1078,6 @@
 [submodule "projects/web-apps/pediculiaussy"]
 	path = projects/web-apps/pediculiaussy
 	url = https://github.com/mojomast/pediculiaussy.git
+[submodule "projects/web-apps/epistaxaussy"]
+	path = projects/web-apps/epistaxaussy
+	url = https://github.com/mojomast/epistaxaussy.git
