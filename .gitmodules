@@ -1072,3 +1072,6 @@
 [submodule "projects/web-apps/hospitiaussy"]
 	path = projects/web-apps/hospitiaussy
 	url = https://github.com/mojomast/hospitiaussy.git
+[submodule "projects/web-apps/septicaussy"]
+	path = projects/web-apps/septicaussy
+	url = https://github.com/mojomast/septicaussy.git
