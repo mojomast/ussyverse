@@ -1099,3 +1099,6 @@
 [submodule "projects/web-apps/fulguraussy"]
 	path = projects/web-apps/fulguraussy
 	url = https://github.com/mojomast/fulguraussy.git
+[submodule "projects/web-apps/riptidaussy"]
+	path = projects/web-apps/riptidaussy
+	url = https://github.com/mojomast/riptidaussy.git
