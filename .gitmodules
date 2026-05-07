@@ -1093,3 +1093,6 @@
 [submodule "projects/web-apps/actuataussy"]
 	path = projects/web-apps/actuataussy
 	url = https://github.com/mojomast/actuataussy.git
+[submodule "projects/creative/chromascriptussy"]
+	path = projects/creative/chromascriptussy
+	url = https://github.com/mojomast/chromascriptussy.git
