@@ -1108,3 +1108,6 @@
 [submodule "projects/web-apps/acclimaussy"]
 	path = projects/web-apps/acclimaussy
 	url = https://github.com/mojomast/acclimaussy.git
+[submodule "projects/web-apps/ottaviaussy"]
+	path = projects/web-apps/ottaviaussy
+	url = https://github.com/mojomast/ottaviaussy.git
