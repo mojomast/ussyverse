@@ -1081,3 +1081,6 @@
 [submodule "projects/web-apps/epistaxaussy"]
 	path = projects/web-apps/epistaxaussy
 	url = https://github.com/mojomast/epistaxaussy.git
+[submodule "projects/web-apps/paronychaussy"]
+	path = projects/web-apps/paronychaussy
+	url = https://github.com/mojomast/paronychaussy.git
