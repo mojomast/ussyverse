@@ -1117,3 +1117,6 @@
 [submodule "projects/web-apps/vorticaussy"]
 	path = projects/web-apps/vorticaussy
 	url = https://github.com/mojomast/vorticaussy.git
+[submodule "projects/web-apps/ixodiaussy"]
+	path = projects/web-apps/ixodiaussy
+	url = https://github.com/mojomast/ixodiaussy.git
