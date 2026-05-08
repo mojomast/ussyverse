@@ -1138,3 +1138,6 @@
 [submodule "projects/web-apps/cyclaraussy"]
 	path = projects/web-apps/cyclaraussy
 	url = https://github.com/mojomast/cyclaraussy.git
+[submodule "projects/web-apps/a3viaussy"]
+	path = projects/web-apps/a3viaussy
+	url = https://github.com/mojomast/a3viaussy.git
