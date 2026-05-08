@@ -1132,3 +1132,6 @@
 [submodule "projects/web-apps/scalariaussy"]
 	path = projects/web-apps/scalariaussy
 	url = https://github.com/mojomast/scalariaussy.git
+[submodule "projects/web-apps/eutrophaussy"]
+	path = projects/web-apps/eutrophaussy
+	url = https://github.com/mojomast/eutrophaussy.git
