@@ -1126,3 +1126,6 @@
 [submodule "projects/web-apps/rabidaussy"]
 	path = projects/web-apps/rabidaussy
 	url = https://github.com/mojomast/rabidaussy.git
+[submodule "projects/web-apps/andoniaussy"]
+	path = projects/web-apps/andoniaussy
+	url = https://github.com/mojomast/andoniaussy.git
