@@ -1156,3 +1156,6 @@
 [submodule "projects/web-apps/framoraussy"]
 	path = projects/web-apps/framoraussy
 	url = https://github.com/mojomast/framoraussy.git
+[submodule "projects/web-apps/legionaussy"]
+	path = projects/web-apps/legionaussy
+	url = https://github.com/mojomast/legionaussy.git
