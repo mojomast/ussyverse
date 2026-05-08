@@ -1129,3 +1129,6 @@
 [submodule "projects/web-apps/andoniaussy"]
 	path = projects/web-apps/andoniaussy
 	url = https://github.com/mojomast/andoniaussy.git
+[submodule "projects/web-apps/scalariaussy"]
+	path = projects/web-apps/scalariaussy
+	url = https://github.com/mojomast/scalariaussy.git
