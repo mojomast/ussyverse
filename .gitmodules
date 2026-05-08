@@ -1141,3 +1141,6 @@
 [submodule "projects/web-apps/a3viaussy"]
 	path = projects/web-apps/a3viaussy
 	url = https://github.com/mojomast/a3viaussy.git
+[submodule "projects/web-apps/palpebraussy"]
+	path = projects/web-apps/palpebraussy
+	url = https://github.com/mojomast/palpebraussy.git
