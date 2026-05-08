@@ -1150,3 +1150,6 @@
 [submodule "projects/data-science/recapturaussy"]
 	path = projects/data-science/recapturaussy
 	url = https://github.com/mojomast/recapturaussy.git
+[submodule "projects/web-apps/mustiaussy"]
+	path = projects/web-apps/mustiaussy
+	url = https://github.com/mojomast/mustiaussy.git
