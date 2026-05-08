@@ -1147,3 +1147,6 @@
 [submodule "projects/web-apps/pokayokeussy"]
 	path = projects/web-apps/pokayokeussy
 	url = https://github.com/mojomast/pokayokeussy.git
+[submodule "projects/data-science/recapturaussy"]
+	path = projects/data-science/recapturaussy
+	url = https://github.com/mojomast/recapturaussy.git
