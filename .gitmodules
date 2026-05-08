@@ -1144,3 +1144,6 @@
 [submodule "projects/web-apps/palpebraussy"]
 	path = projects/web-apps/palpebraussy
 	url = https://github.com/mojomast/palpebraussy.git
+[submodule "projects/web-apps/pokayokeussy"]
+	path = projects/web-apps/pokayokeussy
+	url = https://github.com/mojomast/pokayokeussy.git
