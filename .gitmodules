@@ -1135,3 +1135,6 @@
 [submodule "projects/web-apps/eutrophaussy"]
 	path = projects/web-apps/eutrophaussy
 	url = https://github.com/mojomast/eutrophaussy.git
+[submodule "projects/web-apps/cyclaraussy"]
+	path = projects/web-apps/cyclaraussy
+	url = https://github.com/mojomast/cyclaraussy.git
